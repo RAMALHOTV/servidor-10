@@ -1,955 +1,1613 @@
 
  
 
+
 #EXTM3U
-
-#PLAYLISTV: pltv-logo="https://i.imgur.com/M0aRl2a.jpg" pltv-name="RAMALHOTV" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="https://i.imgur.com/M0aRl2a.jpg" pltv-author="RAMALHOTV" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="" pltv-phone="(44) 98656144"
-
-################################################################################# Informações da Lista
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="Informações da Lista",(44)991045772 
-https://www.youtube.com/channel/UCojJlq
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="Informações da Lista",RamalhoTV 
-https://www.youtube.com/channel/UCojJlqr-L
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado:22/05/2022
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR]  [B][COLOR lime] -SERVIDOR 06[/B][/COLOR]
+http://canais.servidor
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado:01/06/2022
  https://www.youtube.com/channel/UCojJlqr-L
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",By RAMALHOTV 
 https://www.youtube.com/channel/UCojJlqr-
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="24h I Chaves Desenho" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/152.png" group-title="Canais | INFANTIL 24 HORAS",24h I Chaves Desenho
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/40818
-#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia (1992)*" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/136.png" group-title="Canais | INFANTIL 24 HORAS",A Pequena Sereia (1992)*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49723
-#EXTINF:-1 tvg-id="AEBrasil.br" tvg-name="A&E FHD*" tvg-logo="http://falko.myddns.me/Logos/Filmes%20e%20Series/220.png" group-title="Canais | FILMES E SÉRIES ",A&E FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27322
-#EXTINF:-1 tvg-id="AEBrasil.br" tvg-name="A&E HD*" tvg-logo="http://falko.myddns.me/Logos/Filmes%20e%20Series/220.png" group-title="Canais | FILMES E SÉRIES ",A&E HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27323
-#EXTINF:-1 tvg-id="AEBrasil.br" tvg-name="A&E SD*" tvg-logo="http://falko.myddns.me/Logos/Filmes%20e%20Series/220.png" group-title="Canais | FILMES E SÉRIES ",A&E SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27324
-#EXTINF:-1 tvg-id="AgroPlus.br" tvg-name="AgroMais HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/agromais.png" group-title="Canais | NOTÍCIAS ",AgroMais HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/48356
-#EXTINF:-1 tvg-id="AgroPlus.br" tvg-name="AgroMais SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/agromais.png" group-title="Canais | NOTÍCIAS ",AgroMais SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/48357
-#EXTINF:-1 tvg-id="" tvg-name="Aladdin (1994)*" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/138.png" group-title="Canais | INFANTIL 24 HORAS",Aladdin (1994)*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49710
-#EXTINF:-1 tvg-id="AMCBrasil.br" tvg-name="AMC HD*" tvg-logo="http://falko.myddns.me/Logos/H265/26.png" group-title="Canais | FILMES",AMC HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27187
-#EXTINF:-1 tvg-id="AMCBrasil.br" tvg-name="AMC SD*" tvg-logo="http://falko.myddns.me/Logos/H265/26.png" group-title="Canais | FILMES",AMC SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27188
-#EXTINF:-1 tvg-id="AnimalPlanetBrasil.br" tvg-name="Animal Planet FHD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/animalplanet.png" group-title="Canais | DOCUMENTÁRIOS ",Animal Planet FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27227
-#EXTINF:-1 tvg-id="AnimalPlanetBrasil.br" tvg-name="Animal Planet HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/animalplanet.png" group-title="Canais | DOCUMENTÁRIOS ",Animal Planet HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27228
-#EXTINF:-1 tvg-id="AnimalPlanetBrasil.br" tvg-name="Animal Planet SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/animalplanet.png" group-title="Canais | DOCUMENTÁRIOS ",Animal Planet SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27229
-#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Jackie Chan (2000)*" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/139.png" group-title="Canais | INFANTIL 24 HORAS",As Aventuras de Jackie Chan (2000)*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49714
-#EXTINF:-1 tvg-id="AXNBrazil.us" tvg-name="AXN FHD*" tvg-logo="http://falko.myddns.me/Logos/H265/27.png" group-title="Canais | FILMES E SÉRIES ",AXN FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27319
-#EXTINF:-1 tvg-id="AXNBrazil.us" tvg-name="AXN HD*" tvg-logo="http://falko.myddns.me/Logos/H265/27.png" group-title="Canais | FILMES E SÉRIES ",AXN HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27320
-#EXTINF:-1 tvg-id="AXNBrazil.us" tvg-name="AXN SD*" tvg-logo="http://falko.myddns.me/Logos/H265/27.png" group-title="Canais | FILMES E SÉRIES ",AXN SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27321
-#EXTINF:-1 tvg-id="babytv.br" tvg-name="BabyTV HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/babytv.png" group-title="Canais | INFANTIL",BabyTV HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27401
-#EXTINF:-1 tvg-id="babytv.br" tvg-name="BabyTV SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/babytv.png" group-title="Canais | INFANTIL",BabyTV SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27402
-#EXTINF:-1 tvg-id="band.br" tvg-name="Band Campinas HD*" tvg-logo="http://sbocs.no-ip.net/logo/bandcampinas.png" group-title="Canais | ABERTOS",Band Campinas HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27154
-#EXTINF:-1 tvg-id="band.br" tvg-name="Band Campinas SD*" tvg-logo="http://sbocs.no-ip.net/logo/bandcampinas.png" group-title="Canais | ABERTOS",Band Campinas SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27155
-#EXTINF:-1 tvg-id="BandNews.br" tvg-name="Band News HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/noticias/bandnews.png" group-title="Canais | NOTÍCIAS ",Band News HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27444
-#EXTINF:-1 tvg-id="BandNews.br" tvg-name="Band News SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/noticias/bandnews.png" group-title="Canais | NOTÍCIAS ",Band News SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27445
-#EXTINF:-1 tvg-id="band.br" tvg-name="Band SP HD*" tvg-logo="http://sbocs.no-ip.net/logo/bandcampinas.png" group-title="Canais | ABERTOS",Band SP HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27156
-#EXTINF:-1 tvg-id="band.br" tvg-name="Band SP SD*" tvg-logo="http://sbocs.no-ip.net/logo/bandcampinas.png" group-title="Canais | ABERTOS",Band SP SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27157
-#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/bandsports.png" group-title="Canais | ESPORTES",Band Sports HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27271
-#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/bandsports.png" group-title="Canais | ESPORTES",Band Sports SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27294
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="Bis HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/bis.png" group-title="Canais | MUSICAIS",Bis HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27434
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="Bis SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/bis.png" group-title="Canais | MUSICAIS",Bis SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27435
-#EXTINF:-1 tvg-id="" tvg-name="Black Kamen Rider 24H*" tvg-logo="http://sbocs.no-ip.net/logo/black.png" group-title="Canais |  24 HORAS",Black Kamen Rider 24H*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27542
-#EXTINF:-1 tvg-id="BloombergTVBrazil.us" tvg-name="Bloomberg HD*" tvg-logo="http://srv.maxptv.net:8080/images/1b87225c734b0a934e9ce33ffc53c9ce.png" group-title="Canais | MUNDO INTERNACIONAL",Bloomberg HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49147
-#EXTINF:-1 tvg-id="BloombergTVBrazil.us" tvg-name="Bloomberg SD*" tvg-logo="http://srv.maxptv.net:8080/images/1b87225c734b0a934e9ce33ffc53c9ce.png" group-title="Canais | MUNDO INTERNACIONAL",Bloomberg SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49148
-#EXTINF:-1 tvg-id="BoaVontadeTV.br" tvg-name="Boa Vontade TV HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/boavontade.png" group-title="Canais I CORTESIA",Boa Vontade TV HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49135
-#EXTINF:-1 tvg-id="BoaVontadeTV.br" tvg-name="Boa Vontade TV SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/boavontade.png" group-title="Canais I CORTESIA",Boa Vontade TV SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49136
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja 24H" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/147.png" group-title="Canais | INFANTIL 24 HORAS",Bob Esponja 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/40814
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Boomerang HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/boomerang.png" group-title="Canais | INFANTIL",Boomerang HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27399
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Boomerang SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/boomerang.png" group-title="Canais | INFANTIL",Boomerang SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27400
-#EXTINF:-1 tvg-id="CanalBrasil.br" tvg-name="Canal Brasil FHD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/canalbrasil.png" group-title="Canais | FILMES E SÉRIES ",Canal Brasil FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27327
-#EXTINF:-1 tvg-id="" tvg-name="Canal CSI 24H*" tvg-logo="http://sbocs.no-ip.net/logo/csi.png" group-title="Canais |  24 HORAS",Canal CSI 24H*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27541
-#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/canaldoboi.png" group-title="Canais I CORTESIA",Canal do Boi HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27135
-#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/canaldoboi.png" group-title="Canais I CORTESIA",Canal do Boi SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49047
-#EXTINF:-1 tvg-id="" tvg-name="Canal do Carro HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/canaldocarro.png" group-title="Canais | VARIEDADES",Canal do Carro HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/48352
-#EXTINF:-1 tvg-id="" tvg-name="Canal do Carro SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/canaldocarro.png" group-title="Canais | VARIEDADES",Canal do Carro SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/48353
-#EXTINF:-1 tvg-id="" tvg-name="Canal I Tv Igreja Mundial do Poder de Deus" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/igrejamundiareinodedeus.png" group-title="Canais | RELIGIÃO",Canal I Tv Igreja Mundial do Poder de Deus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27451
-#EXTINF:-1 tvg-id="CanalRural.br" tvg-name="Canal Rural HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/canalrural.png" group-title="Canais I CORTESIA",Canal Rural HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49141
-#EXTINF:-1 tvg-id="CanalRural.br" tvg-name="Canal Rural SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/canalrural.png" group-title="Canais I CORTESIA",Canal Rural SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49142
-#EXTINF:-1 tvg-id="SonyChannelBrasil.br" tvg-name="Canal Sony FHD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/canalsony.png" group-title="Canais | FILMES E SÉRIES ",Canal Sony FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27370
-#EXTINF:-1 tvg-id="SonyChannelBrasil.br" tvg-name="Canal Sony HD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/canalsony.png" group-title="Canais | FILMES E SÉRIES ",Canal Sony HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27345
-#EXTINF:-1 tvg-id="SonyChannelBrasil.br" tvg-name="Canal Sony SD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/canalsony.png" group-title="Canais | FILMES E SÉRIES ",Canal Sony SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27346
-#EXTINF:-1 tvg-id="TVCancaoNova.br" tvg-name="Canção Nova HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/cancaonova.png" group-title="Canais | RELIGIÃO",Canção Nova HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/47755
-#EXTINF:-1 tvg-id="TVCancaoNova.br" tvg-name="Canção Nova HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/cancaonova.png" group-title="Canais | RELIGIÃO",Canção Nova HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/47757
-#EXTINF:-1 tvg-id="TVCancaoNova.br" tvg-name="Canção Nova SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/cancaonova.png" group-title="Canais | RELIGIÃO",Canção Nova SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/47756
-#EXTINF:-1 tvg-id="TVCancaoNova.br" tvg-name="Canção Nova SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/cancaonova.png" group-title="Canais | RELIGIÃO",Canção Nova SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/47758
-#EXTINF:-1 tvg-id="" tvg-name="Capitão Planeta (1990)*" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/148.png" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",Capitão Planeta (1990)*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49780
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network FHD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/cartoonnetwork.png" group-title="Canais | INFANTIL",Cartoon Network FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27396
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/cartoonnetwork.png" group-title="Canais | INFANTIL",Cartoon Network HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27397
-#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/cartoonnetwork.png" group-title="Canais | INFANTIL",Cartoon Network SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27398
-#EXTINF:-1 tvg-id="BoomerangBrasil.us" tvg-name="Cartoonito HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/caroonito.png" group-title="Canais | INFANTIL",Cartoonito HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49054
-#EXTINF:-1 tvg-id="BoomerangBrasil.us" tvg-name="Cartoonito SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/caroonito.png" group-title="Canais | INFANTIL",Cartoonito SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49055
-#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragão*" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/149.png" group-title="Canais | INFANTIL 24 HORAS",Caverna do Dragão*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49722
-#EXTINF:-1 tvg-id="" tvg-name="CDZ  Saga de Poseidon 24H" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/150.png" group-title="Canais | INFANTIL 24 HORAS",CDZ  Saga de Poseidon 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/40809
-#EXTINF:-1 tvg-id="" tvg-name="CDZ Saga de Hades 24H" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/150.png" group-title="Canais | INFANTIL 24 HORAS",CDZ Saga de Hades 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/40811
-#EXTINF:-1 tvg-id="" tvg-name="CDZ Saga do Santuario  24H" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/150.png" group-title="Canais | INFANTIL 24 HORAS",CDZ Saga do Santuario  24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/40812
-#EXTINF:-1 tvg-id="" tvg-name="Chapolin 2 24H*" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/151.png" group-title="Canais | INFANTIL 24 HORAS",Chapolin 2 24H*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27499
-#EXTINF:-1 tvg-id="" tvg-name="Cine Action 24H* Ultra HD" tvg-logo="http://sbocs.no-ip.net/logo/cineaction.png" group-title="Canais |  24 HORAS",Cine Action 24H* Ultra HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27531
-#EXTINF:-1 tvg-id="" tvg-name="Cine Drama 24H* Ultra HD" tvg-logo="http://sbocs.no-ip.net/logo/cinedrama.png" group-title="Canais |  24 HORAS",Cine Drama 24H* Ultra HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27533
-#EXTINF:-1 tvg-id="" tvg-name="Cine Family 24H*" tvg-logo="http://sbocs.no-ip.net/logo/cinefamily.png" group-title="Canais |  24 HORAS",Cine Family 24H*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27534
-#EXTINF:-1 tvg-id="" tvg-name="Cine Fiction 24H* Ultra HD" tvg-logo="http://sbocs.no-ip.net/logo/fiction.png" group-title="Canais |  24 HORAS",Cine Fiction 24H* Ultra HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27535
-#EXTINF:-1 tvg-id="" tvg-name="Cine Fun 24H* Ultra HD" tvg-logo="http://sbocs.no-ip.net/logo/cinefun.png" group-title="Canais |  24 HORAS",Cine Fun 24H* Ultra HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27536
-#EXTINF:-1 tvg-id="" tvg-name="Cine Guerra 24H* Ultra HD" tvg-logo="" group-title="Canais |  24 HORAS",Cine Guerra 24H* Ultra HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27537
-#EXTINF:-1 tvg-id="" tvg-name="Cine Horror 24H* Ultra HD" tvg-logo="http://sbocs.no-ip.net/logo/cinehorror.png" group-title="Canais |  24 HORAS",Cine Horror 24H* Ultra HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27538
-#EXTINF:-1 tvg-id="" tvg-name="CINE Nacionais 24H*" tvg-logo="http://sbocs.no-ip.net/logo/cinenacional.png" group-title="Canais |  24 HORAS",CINE Nacionais 24H*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27540
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 01 HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 01 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/38977
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 02 HD*" tvg-logo="http://srv.maxptv.net:8080/images/5d70c26116b907596390b2d60ca3a6f5.png" group-title="Canais I CINE SKY",CINE SKY 02 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/38978
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 03 HD*" tvg-logo="http://srv.maxptv.net:8080/images/5d70c26116b907596390b2d60ca3a6f5.png" group-title="Canais I CINE SKY",CINE SKY 03 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/38979
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 04 HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 04 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27245
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 05 HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 05 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27244
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 06 HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 06 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27246
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 07 HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 07 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27247
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 08 HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 08 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27248
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 09 HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 09 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27249
-#EXTINF:-1 tvg-id="iSat.br" tvg-name="CINE SKY 10 HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 10 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27250
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="Cnn Brasil HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/noticias/cnnbrasil.png" group-title="Canais | NOTÍCIAS ",Cnn Brasil HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27442
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="Cnn Brasil SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/noticias/cnnbrasil.png" group-title="Canais | NOTÍCIAS ",Cnn Brasil SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27443
-#EXTINF:-1 tvg-id="CNNInternationalAsiaPacific.us" tvg-name="CNN International HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/mundo/cnninternacional.png" group-title="Canais | MUNDO INTERNACIONAL",CNN International HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49145
-#EXTINF:-1 tvg-id="CNNInternationalAsiaPacific.us" tvg-name="CNN International SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/mundo/cnninternacional.png" group-title="Canais | MUNDO INTERNACIONAL",CNN International SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49146
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate FHD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/combate.png" group-title="Canais | PREMIERE",Combate FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27424
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/combate.png" group-title="Canais | PREMIERE",Combate HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27422
-#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/combate.png" group-title="Canais | PREMIERE",Combate SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27423
-#EXTINF:-1 tvg-id="ComedyCentralBrazil.us" tvg-name="Comedy Central FHD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/comedycentral.png" group-title="Canais | FILMES E SÉRIES ",Comedy Central FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27367
-#EXTINF:-1 tvg-id="ComedyCentralBrazil.us" tvg-name="Comedy Central HD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/comedycentral.png" group-title="Canais | FILMES E SÉRIES ",Comedy Central HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27368
-#EXTINF:-1 tvg-id="ComedyCentralBrazil.us" tvg-name="Comedy Central SD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/comedycentral.png" group-title="Canais | FILMES E SÉRIES ",Comedy Central SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27369
-#EXTINF:-1 tvg-id="ConmebolTV1.br" tvg-name="Conmebol TV 1 HD*" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",Conmebol TV 1 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27286
-#EXTINF:-1 tvg-id="ConmebolTV1.br" tvg-name="Conmebol TV 1 SD*" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",Conmebol TV 1 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27287
-#EXTINF:-1 tvg-id="ConmebolTV2.br" tvg-name="Conmebol TV 2 HD*" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",Conmebol TV 2 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27288
-#EXTINF:-1 tvg-id="ConmebolTV2.br" tvg-name="Conmebol TV 2 SD*" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",Conmebol TV 2 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27289
-#EXTINF:-1 tvg-id="ConmebolTV3.br" tvg-name="Conmebol TV 3 HD*" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",Conmebol TV 3 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27290
-#EXTINF:-1 tvg-id="ConmebolTV3.br" tvg-name="Conmebol TV 3 SD*" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",Conmebol TV 3 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27291
-#EXTINF:-1 tvg-id="ConmebolTV4.br" tvg-name="Conmebol TV 4 HD*" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",Conmebol TV 4 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27292
-#EXTINF:-1 tvg-id="ConmebolTV4.br" tvg-name="Conmebol TV 4 SD*" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",Conmebol TV 4 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27293
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="Cultura HD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/cultura.png" group-title="Canais | ABERTOS",Cultura HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27152
-#EXTINF:-1 tvg-id="cultura.br" tvg-name="Cultura SD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/cultura.png" group-title="Canais | ABERTOS",Cultura SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27153
-#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/curta.png" group-title="Canais | VARIEDADES",Curta! HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27658
-#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/curta.png" group-title="Canais | VARIEDADES",Curta! SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27659
-#EXTINF:-1 tvg-id="" tvg-name="Cybercop 24H*" tvg-logo="" group-title="Canais |  24 HORAS",Cybercop 24H*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27545
-#EXTINF:-1 tvg-id="DiscoveryChannelBrasil.br" tvg-name="Discovery Channel FHD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/duscoverychannel.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Channel FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27221
-#EXTINF:-1 tvg-id="DiscoveryChannelBrasil.br" tvg-name="Discovery Channel HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/duscoverychannel.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Channel HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27222
-#EXTINF:-1 tvg-id="DiscoveryChannelBrasil.br" tvg-name="Discovery Channel SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/duscoverychannel.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Channel SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27243
-#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrasil.br" tvg-name="Discovery Home & Health FHD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/homehealt.png" group-title="Canais | VARIEDADES",Discovery Home & Health FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27220
-#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrasil.br" tvg-name="Discovery Home & Health HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/homehealt.png" group-title="Canais | VARIEDADES",Discovery Home & Health HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27654
-#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrasil.br" tvg-name="Discovery Home & Health SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/homehealt.png" group-title="Canais | VARIEDADES",Discovery Home & Health SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27655
-#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/discoverykids.png" group-title="Canais | INFANTIL",Discovery Kids HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27394
-#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/discoverykids.png" group-title="Canais | INFANTIL",Discovery Kids SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27395
-#EXTINF:-1 tvg-id="DiscoveryScienceBrasil.us" tvg-name="Discovery Science FHD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/duscoveryscience.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Science FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27209
-#EXTINF:-1 tvg-id="DiscoveryScienceBrasil.us" tvg-name="Discovery Science HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/duscoveryscience.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Science HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27210
-#EXTINF:-1 tvg-id="DiscoveryScienceBrasil.us" tvg-name="Discovery Science SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/duscoveryscience.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Science SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27211
-#EXTINF:-1 tvg-id="DiscoveryTheater.us" tvg-name="Discovery Theater HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/theather.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Theater HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27212
-#EXTINF:-1 tvg-id="DiscoveryTheater.us" tvg-name="Discovery Theater SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/theather.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Theater SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27213
-#EXTINF:-1 tvg-id="DiscoveryTurboBrasil.br" tvg-name="Discovery Turbo FHD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/discoveryturbo.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Turbo FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27214
-#EXTINF:-1 tvg-id="DiscoveryTurboBrasil.br" tvg-name="Discovery Turbo HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/discoveryturbo.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Turbo HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27215
-#EXTINF:-1 tvg-id="DiscoveryTurboBrasil.br" tvg-name="Discovery Turbo SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/discoveryturbo.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Turbo SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27216
-#EXTINF:-1 tvg-id="DiscoveryWorldBrasil.br" tvg-name="Discovery World FHD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/discoveryworld.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery World FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27217
-#EXTINF:-1 tvg-id="DiscoveryWorldBrasil.br" tvg-name="Discovery World HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/discoveryworld.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery World HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27218
-#EXTINF:-1 tvg-id="DiscoveryWorldBrasil.br" tvg-name="Discovery World SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/discoveryworld.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery World SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27219
-#EXTINF:-1 tvg-id="disneyhd.br" tvg-name="Disney Channel  HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/disneychannel.png" group-title="Canais | INFANTIL",Disney Channel  HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27387
-#EXTINF:-1 tvg-id="disneyhd.br" tvg-name="Disney Channel FHD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/disneychannel.png" group-title="Canais | INFANTIL",Disney Channel FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27388
-#EXTINF:-1 tvg-id="disneyhd.br" tvg-name="Disney Channel SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/disneychannel.png" group-title="Canais | INFANTIL",Disney Channel SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27389
-#EXTINF:-1 tvg-id="DogTV.us" tvg-name="DogTV HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/dogtv.png" group-title="Canais | DOCUMENTÁRIOS ",DogTV HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27230
-#EXTINF:-1 tvg-id="DogTV.us" tvg-name="DogTV SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/dogtv.png" group-title="Canais | DOCUMENTÁRIOS ",DogTV SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27231
-#EXTINF:-1 tvg-id="" tvg-name="DR. House 1 24H*R" tvg-logo="" group-title="Canais |  24 HORAS",DR. House 1 24H*R
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27544
-#EXTINF:-1 tvg-id="" tvg-name="Dr. House 2 24H*" tvg-logo="http://sbocs.no-ip.net/logo/drhouse.png" group-title="Canais |  24 HORAS",Dr. House 2 24H*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27507
-#EXTINF:-1 tvg-id="" tvg-name="Dragoes  24H*" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/161.png" group-title="Canais |  24 HORAS",Dragoes  24H*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27543
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT 24H" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/158.png" group-title="Canais | INFANTIL 24 HORAS",Dragon Ball GT 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/40804
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super 24H" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/159.png" group-title="Canais | INFANTIL 24 HORAS",Dragon Ball Super 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/40799
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball X Freeza 24H" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/159.png" group-title="Canais | INFANTIL 24 HORAS",Dragon Ball X Freeza 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/40800
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Androides 24H" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/158.png" group-title="Canais | INFANTIL 24 HORAS",Dragon Ball Z Androides 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/40801
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Cell 24H" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/159.png" group-title="Canais | INFANTIL 24 HORAS",Dragon Ball Z Cell 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/40802
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Sayajins 24H" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/160.png" group-title="Canais | INFANTIL 24 HORAS",Dragon Ball Z Sayajins 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/40803
-#EXTINF:-1 tvg-id="" tvg-name="Ducktales 24H" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/162.png" group-title="Canais | INFANTIL 24 HORAS",Ducktales 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/40805
-#EXTINF:-1 tvg-id="EBrasil.br" tvg-name="E! HD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/e!.png" group-title="Canais | FILMES E SÉRIES ",E! HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27365
-#EXTINF:-1 tvg-id="EBrasil.br" tvg-name="E! SD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/e!.png" group-title="Canais | FILMES E SÉRIES ",E! SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27366
-#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="EPTV Campinas FHD*" tvg-logo="http://sbocs.no-ip.net/logo/eptvcampinas.png" group-title="Canais | ABERTOS",EPTV Campinas FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/34234
-#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="EPTV Campinas HD*" tvg-logo="http://sbocs.no-ip.net/logo/eptvcampinas.png" group-title="Canais | ABERTOS",EPTV Campinas HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27150
-#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="EPTV Campinas SD*" tvg-logo="http://sbocs.no-ip.net/logo/eptvcampinas.png" group-title="Canais | ABERTOS",EPTV Campinas SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27151
-#EXTINF:-1 tvg-id="ESPN2Brasil.br" tvg-name="ESPN  2 HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/espn2.png" group-title="Canais | ESPORTES",ESPN  2 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27267
-#EXTINF:-1 tvg-id="ESPN2Brasil.br" tvg-name="ESPN  2 SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/espn2.png" group-title="Canais | ESPORTES",ESPN  2 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27268
-#EXTINF:-1 tvg-id="ESPN3Brasil.br" tvg-name="ESPN  3 HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/novosespn/espn3.png" group-title="Canais | ESPORTES",ESPN  3 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27265
-#EXTINF:-1 tvg-id="ESPN3Brasil.br" tvg-name="ESPN  3 SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/novosespn/espn3.png" group-title="Canais | ESPORTES",ESPN  3 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27266
-#EXTINF:-1 tvg-id="FoxSportsBrasil.us" tvg-name="ESPN 4 HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/novosespn/espn4.png" group-title="Canais | ESPORTES",ESPN 4 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27285
-#EXTINF:-1 tvg-id="FoxSportsBrasil.us" tvg-name="ESPN 4 SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/novosespn/espn4.png" group-title="Canais | ESPORTES",ESPN 4 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27295
-#EXTINF:-1 tvg-id="ESPNExtraBrasil.br" tvg-name="Espn Extra  SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/espnextra.png" group-title="Canais | ESPORTES",Espn Extra  SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27270
-#EXTINF:-1 tvg-id="ESPNExtraBrasil.br" tvg-name="Espn Extra HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/espnextra.png" group-title="Canais | ESPORTES",Espn Extra HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27269
-#EXTINF:-1 tvg-id="ESPNBrasil.br" tvg-name="ESPN HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/espn.png" group-title="Canais | ESPORTES",ESPN HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27641
-#EXTINF:-1 tvg-id="ESPNBrasil.br" tvg-name="ESPN SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/espn.png" group-title="Canais | ESPORTES",ESPN SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27642
-#EXTINF:-1 tvg-id="Eurochannel.us" tvg-name="Eurochannel HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/eurochannel.png" group-title="Canais | FILMES",Eurochannel HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/48365
-#EXTINF:-1 tvg-id="Eurochannel.us" tvg-name="Eurochannel SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/eurochannel.png" group-title="Canais | FILMES",Eurochannel SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/48366
-#EXTINF:-1 tvg-id="" tvg-name="Familia da Pesada 24H*" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/163.png" group-title="Canais | INFANTIL 24 HORAS",Familia da Pesada 24H*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27501
-#EXTINF:-1 tvg-id="" tvg-name="Familia Dinossauro  24H*" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/164.png" group-title="Canais | INFANTIL 24 HORAS",Familia Dinossauro  24H*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27500
-#EXTINF:-1 tvg-id="FashionTVBrazil.br" tvg-name="Fashion TV HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/fashiontv.png" group-title="Canais I CORTESIA",Fashion TV HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/48358
-#EXTINF:-1 tvg-id="FashionTVBrazil.br" tvg-name="Fashion TV SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/fashiontv.png" group-title="Canais I CORTESIA",Fashion TV SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/48359
-#EXTINF:-1 tvg-id="" tvg-name="FFH The 80's" tvg-logo="https://www.radioszene.de/wp-content/uploads/2017/06/FFH-Logo-jobs-fb-min-530x277.png" group-title="Canais I RÁDIOS FM",FFH The 80's
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/28021
-#EXTINF:-1 tvg-id="FilmArtsBrasil.br" tvg-name="Film&Arts HD*" tvg-logo="https://static.wixstatic.com/media/b13b12_716a17df3a654b65ac01971c7086b532~mv2.png" group-title="Canais | FILMES E SÉRIES ",Film&Arts HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27325
-#EXTINF:-1 tvg-id="FilmArtsBrasil.br" tvg-name="Film&Arts SD*" tvg-logo="https://static.wixstatic.com/media/b13b12_716a17df3a654b65ac01971c7086b532~mv2.png" group-title="Canais | FILMES E SÉRIES ",Film&Arts SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27326
-#EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV FHD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/fishtv.png" group-title="Canais | DOCUMENTÁRIOS ",Fish TV FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27206
-#EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV HD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/fishtv.png" group-title="Canais | DOCUMENTÁRIOS ",Fish TV HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27207
-#EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/fishtv.png" group-title="Canais | DOCUMENTÁRIOS ",Fish TV SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27208
-#EXTINF:-1 tvg-id="FoodNetworkBrasil.br" tvg-name="Food Network HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/foodnetwork.png" group-title="Canais | VARIEDADES",Food Network HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27652
-#EXTINF:-1 tvg-id="FoodNetworkBrasil.br" tvg-name="Food Network SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/foodnetwork.png" group-title="Canais | VARIEDADES",Food Network SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27653
-#EXTINF:-1 tvg-id="FoxSports2Brasil.br" tvg-name="FOX Sports 2 FHD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/foxsports2.png" group-title="Canais | ESPORTES",FOX Sports 2 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27281
-#EXTINF:-1 tvg-id="FoxSports2Brasil.br" tvg-name="Fox Sports 2 HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/foxsports2.png" group-title="Canais | ESPORTES",Fox Sports 2 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27282
-#EXTINF:-1 tvg-id="FoxSports2Brasil.br" tvg-name="Fox Sports 2 SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/foxsports2.png" group-title="Canais | ESPORTES",Fox Sports 2 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27283
-#EXTINF:-1 tvg-id="FoxSportsBrasil.us" tvg-name="FOX Sports FHD*" tvg-logo="http://logos.nineuhd.xyz/foxsportshd.png" group-title="Canais | ESPORTES",FOX Sports FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27284
-#EXTINF:-1 tvg-id="" tvg-name="France 24 HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/france24.png" group-title="Canais | MUNDO INTERNACIONAL",France 24 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/48372
-#EXTINF:-1 tvg-id="" tvg-name="France 24 SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/france24.png" group-title="Canais | MUNDO INTERNACIONAL",France 24 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/48373
-#EXTINF:-1 tvg-id="" tvg-name="Friends 24H Ultra HD" tvg-logo="https://assets.turbologo.com/blog/en/2019/12/19084751/friends-logo-cover-958x575.png" group-title="Canais |  24 HORAS",Friends 24H Ultra HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/40816
-#EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Futura HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/futura.png" group-title="Canais | DOCUMENTÁRIOS ",Futura HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27223
-#EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Futura SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/futura.png" group-title="Canais | DOCUMENTÁRIOS ",Futura SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27224
-#EXTINF:-1 tvg-id="FXBrasil.br" tvg-name="FX FHD*" tvg-logo="http://falko.myddns.me/Logos/H265/37.png" group-title="Canais | FILMES E SÉRIES ",FX FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27353
-#EXTINF:-1 tvg-id="FXBrasil.br" tvg-name="FX HD*" tvg-logo="http://falko.myddns.me/Logos/H265/37.png" group-title="Canais | FILMES E SÉRIES ",FX HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27354
-#EXTINF:-1 tvg-id="FXBrasil.br" tvg-name="FX SD*" tvg-logo="http://falko.myddns.me/Logos/H265/37.png" group-title="Canais | FILMES E SÉRIES ",FX SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27355
-#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha 24H*" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/166.png" group-title="Canais | INFANTIL 24 HORAS",Galinha Pintadinha 24H*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27503
-#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GLOBO BRASILIA HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO BRASILIA HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/50312
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO EPTV CAMPINAS HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO EPTV CAMPINAS HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/50328
-#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO EPTV SUL MINAS HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO EPTV SUL MINAS HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/50314
-#EXTINF:-1 tvg-id="intertvgrandeminas.br" tvg-name="GLOBO GRANDE MINAS HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO GRANDE MINAS HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/50315
-#EXTINF:-1 tvg-id="Tvintegracao.br" tvg-name="GLOBO INTEGRAÇÃO HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO INTEGRAÇÃO HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/50316
-#EXTINF:-1 tvg-id="Globominas.br" tvg-name="GLOBO MINAS HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO MINAS HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/50317
-#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="GLOBO NORDESTE HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO NORDESTE HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/50319
-#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO NSC FLORIANOPOLIS HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO NSC FLORIANOPOLIS HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/50320
-#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="GLOBO RBS PORTO ALEGRE HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RBS PORTO ALEGRE HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/50338
-#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="GLOBO RBS PORTO ALEGRE HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RBS PORTO ALEGRE HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/50321
-#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO REDE AMAZONICA RONDONIA HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO REDE AMAZONICA RONDONIA HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/50342
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RJ HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/50322
-#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO SP HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO SP HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/50323
-#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO TV ANHANGUERA HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV ANHANGUERA HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/50348
-#EXTINF:-1 tvg-id="globobahia.br" tvg-name="GLOBO TV BAHIA HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV BAHIA HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/50349
-#EXTINF:-1 tvg-id="globotvliberalbelem.br" tvg-name="GLOBO TV BELEM HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV BELEM HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/50324
-#EXTINF:-1 tvg-id="tvtemsãojosédoriopreto.br" tvg-name="GLOBO TV TEM S.J.R.PRETO HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV TEM S.J.R.PRETO HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/50325
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV VANG. S.J. CAMPOS HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV VANG. S.J. CAMPOS HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/50363
-#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO TV VANG. TAUBATE HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV VANG. TAUBATE HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/50364
-#EXTINF:-1 tvg-id="globo.br" tvg-name="GLOBO TV VITORIA HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV VITORIA HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/50365
-#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="GloboNews HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/noticias/globonews.png" group-title="Canais | NOTÍCIAS ",GloboNews HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27440
-#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="GloboNews SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/noticias/globonews.png" group-title="Canais | NOTÍCIAS ",GloboNews SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27441
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/gloob.png" group-title="Canais | INFANTIL",Gloob HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27385
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/gloob.png" group-title="Canais | INFANTIL",Gloob SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27386
-#EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/gnt.png" group-title="Canais | VARIEDADES",GNT HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27650
-#EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/gnt.png" group-title="Canais | VARIEDADES",GNT SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27651
-#EXTINF:-1 tvg-id="History2Brasil.br" tvg-name="H2 FHD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/h2.png" group-title="Canais | DOCUMENTÁRIOS ",H2 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27203
-#EXTINF:-1 tvg-id="History2Brasil.br" tvg-name="H2 HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/h2.png" group-title="Canais | DOCUMENTÁRIOS ",H2 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27204
-#EXTINF:-1 tvg-id="History2Brasil.br" tvg-name="H2 SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/h2.png" group-title="Canais | DOCUMENTÁRIOS ",H2 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27205
-#EXTINF:-1 tvg-id="HBO2Brasil.br" tvg-name="HBO 2 FHD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbo2.png" group-title="Canais | HBO",HBO 2 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27299
-#EXTINF:-1 tvg-id="HBO2Brasil.br" tvg-name="HBO 2 HD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbo2.png" group-title="Canais | HBO",HBO 2 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27300
-#EXTINF:-1 tvg-id="HBO2Brasil.br" tvg-name="HBO 2 SD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbo2.png" group-title="Canais | HBO",HBO 2 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27301
-#EXTINF:-1 tvg-id="HBOFamilyBrasil.br" tvg-name="HBO Family FHD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbofamily.png" group-title="Canais | HBO",HBO Family FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27302
-#EXTINF:-1 tvg-id="HBOFamilyBrasil.br" tvg-name="HBO Family HD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbofamily.png" group-title="Canais | HBO",HBO Family HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27303
-#EXTINF:-1 tvg-id="HBOFamilyBrasil.br" tvg-name="HBO Family SD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbofamily.png" group-title="Canais | HBO",HBO Family SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27304
-#EXTINF:-1 tvg-id="HBOBrasil.br" tvg-name="HBO FHD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbo.png" group-title="Canais | HBO",HBO FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27296
-#EXTINF:-1 tvg-id="HBOBrasil.br" tvg-name="HBO HD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbo.png" group-title="Canais | HBO",HBO HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27297
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX STAR+ 01" tvg-logo="http://sbocs.no-ip.net/logosiptv/hbomax/hbomax1.png" group-title="Canais I ESPORTES STREAMING",HBO MAX STAR+ 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/47762
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX STAR+ 02*" tvg-logo="http://sbocs.no-ip.net/logosiptv/hbomax/hbomax2.png" group-title="Canais I ESPORTES STREAMING",HBO MAX STAR+ 02*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/47763
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX STAR+ 03*" tvg-logo="http://sbocs.no-ip.net/logosiptv/hbomax/hbomax3.png" group-title="Canais I ESPORTES STREAMING",HBO MAX STAR+ 03*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/47764
-#EXTINF:-1 tvg-id="HBOMundiBrasil.br" tvg-name="HBO Mundi FHD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27305
-#EXTINF:-1 tvg-id="HBOMundiBrasil.br" tvg-name="HBO Mundi HD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27306
-#EXTINF:-1 tvg-id="HBOMundiBrasil.br" tvg-name="HBO Mundi SD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27307
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus HD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/hboplus.png" group-title="Canais | HBO",HBO Plus HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27308
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus SD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/hboplus.png" group-title="Canais | HBO",HBO Plus SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27309
-#EXTINF:-1 tvg-id="HBOPopBrasil.br" tvg-name="HBO Pop FHD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbopop.png" group-title="Canais | HBO",HBO Pop FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27310
-#EXTINF:-1 tvg-id="HBOPopBrasil.br" tvg-name="HBO Pop HD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbopop.png" group-title="Canais | HBO",HBO Pop HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27311
-#EXTINF:-1 tvg-id="HBOPopBrasil.br" tvg-name="HBO Pop SD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbopop.png" group-title="Canais | HBO",HBO Pop SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27312
-#EXTINF:-1 tvg-id="HBOBrasil.br" tvg-name="HBO SD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbo.png" group-title="Canais | HBO",HBO SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27298
-#EXTINF:-1 tvg-id="HBOSignatureBrasil.br" tvg-name="HBO Signature FHD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27313
-#EXTINF:-1 tvg-id="HBOSignatureBrasil.br" tvg-name="HBO Signature HD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27314
-#EXTINF:-1 tvg-id="HBOSignatureBrasil.br" tvg-name="HBO Signature SD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27315
-#EXTINF:-1 tvg-id="HBOXtremeBrasil.br" tvg-name="HBO Xtreme FHD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27316
-#EXTINF:-1 tvg-id="HBOXtremeBrasil.br" tvg-name="HBO Xtreme HD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27317
-#EXTINF:-1 tvg-id="HBOXtremeBrasil.br" tvg-name="HBO Xtreme SD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27318
-#EXTINF:-1 tvg-id="HGTVBrasil.br" tvg-name="HGTV HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/hgtv.png" group-title="Canais | DOCUMENTÁRIOS ",HGTV HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27225
-#EXTINF:-1 tvg-id="HGTVBrasil.br" tvg-name="HGTV SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/hgtv.png" group-title="Canais | DOCUMENTÁRIOS ",HGTV SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27226
-#EXTINF:-1 tvg-id="HistoryBrasil.br" tvg-name="History Channel FHD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/history.png" group-title="Canais | DOCUMENTÁRIOS ",History Channel FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27242
-#EXTINF:-1 tvg-id="HistoryBrasil.br" tvg-name="History Channel HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/history.png" group-title="Canais | DOCUMENTÁRIOS ",History Channel HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27240
-#EXTINF:-1 tvg-id="HistoryBrasil.br" tvg-name="History Channel SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/history.png" group-title="Canais | DOCUMENTÁRIOS ",History Channel SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27241
-#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha 24H*" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/169.png" group-title="Canais | INFANTIL 24 HORAS",Homem-Aranha 24H*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27502
-#EXTINF:-1 tvg-id="InvestigacaoDiscoveryBrasil.br" tvg-name="ID FHD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/id.png" group-title="Canais | FILMES E SÉRIES ",ID FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27350
-#EXTINF:-1 tvg-id="InvestigacaoDiscoveryBrasil.br" tvg-name="ID HD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/id.png" group-title="Canais | FILMES E SÉRIES ",ID HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27351
-#EXTINF:-1 tvg-id="InvestigacaoDiscoveryBrasil.br" tvg-name="ID SD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/id.png" group-title="Canais | FILMES E SÉRIES ",ID SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27352
-#EXTINF:-1 tvg-id="" tvg-name="Jaspion 24H*" tvg-logo="https://www.jbox.com.br/wp/wp-content/uploads/2019/08/materiajaspion-destacada.jpg" group-title="Canais |  24 HORAS",Jaspion 24H*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27551
-#EXTINF:-1 tvg-id="" tvg-name="JIBAN 24H" tvg-logo="http://mx.droidy.live:8080/images/b003c83d257d20bd4189b97249ae0845.jpg" group-title="Canais | INFANTIL 24 HORAS",JIBAN 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/40806
-#EXTINF:-1 tvg-id="" tvg-name="Johnny Bravo (1997)*" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/173.png" group-title="Canais | INFANTIL 24 HORAS",Johnny Bravo (1997)*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49706
-#EXTINF:-1 tvg-id="JPNews.br" tvg-name="Jovem Pan News HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/noticias/jovempannews.png" group-title="Canais | NOTÍCIAS ",Jovem Pan News HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/47558
-#EXTINF:-1 tvg-id="JPNews.br" tvg-name="Jovem Pan News SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/noticias/jovempannews.png" group-title="Canais | NOTÍCIAS ",Jovem Pan News SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/47533
-#EXTINF:-1 tvg-id="JPNews.br" tvg-name="Jovem Pan News SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/noticias/jovempannews.png" group-title="Canais | NOTÍCIAS ",Jovem Pan News SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/47559
-#EXTINF:-1 tvg-id="" tvg-name="Kim Possible (2002)*" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/175.png" group-title="Canais | INFANTIL 24 HORAS",Kim Possible (2002)*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49708
-#EXTINF:-1 tvg-id="" tvg-name="Kimba, o Leao Branco (1966)*" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/176.png" group-title="Canais | INFANTIL 24 HORAS",Kimba, o Leao Branco (1966)*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49709
-#EXTINF:-1 tvg-id="" tvg-name="Larva 24H*" tvg-logo="http://srv.maxptv.net:8080/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" group-title="Canais | INFANTIL 24 HORAS",Larva 24H*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27504
-#EXTINF:-1 tvg-id="LifetimeBrasil.br" tvg-name="Lifetime FHD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/lifetime.png" group-title="Canais | FILMES E SÉRIES ",Lifetime FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27347
-#EXTINF:-1 tvg-id="LifetimeBrasil.br" tvg-name="Lifetime HD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/lifetime.png" group-title="Canais | FILMES E SÉRIES ",Lifetime HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27348
-#EXTINF:-1 tvg-id="LifetimeBrasil.br" tvg-name="Lifetime SD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/lifetime.png" group-title="Canais | FILMES E SÉRIES ",Lifetime SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27349
-#EXTINF:-1 tvg-id="" tvg-name="Lion Man 24H*" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/178.png" group-title="Canais |  24 HORAS",Lion Man 24H*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27550
-#EXTINF:-1 tvg-id="Loading.br" tvg-name="LOADING HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/loading.png" group-title="Canais | VARIEDADES",LOADING HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/48375
-#EXTINF:-1 tvg-id="Loading.br" tvg-name="LOADING SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/loading.png" group-title="Canais | VARIEDADES",LOADING SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/48376
-#EXTINF:-1 tvg-id="maisglobosat.br" tvg-name="MAIS NA TELA HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/maisnatela.png" group-title="Canais | VARIEDADES",MAIS NA TELA HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/48379
-#EXTINF:-1 tvg-id="maisglobosat.br" tvg-name="MAIS NA TELA SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/maisnatela.png" group-title="Canais | VARIEDADES",MAIS NA TELA SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/48380
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD*" tvg-logo="http://falko.myddns.me/Logos/H265/49.png" group-title="Canais | FILMES",Megapix HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27189
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix SD*" tvg-logo="http://falko.myddns.me/Logos/H265/49.png" group-title="Canais | FILMES",Megapix SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27190
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="Modo Viagem HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/maisglobosat.png" group-title="Canais | VARIEDADES",Modo Viagem HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27648
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="Modo Viagem SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/maisglobosat.png" group-title="Canais | VARIEDADES",Modo Viagem SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27649
-#EXTINF:-1 tvg-id="" tvg-name="MR. Bean 24H*" tvg-logo="https://material.asset.catchplay.com/NBC-IN-001-A0184/artworks/posters/NBC-IN-001-A0184-P544.jpg" group-title="Canais |  24 HORAS",MR. Bean 24H*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27548
-#EXTINF:-1 tvg-id="vh1.br" tvg-name="MTV 00s FHD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/mtv00.png" group-title="Canais | MUSICAIS",MTV 00s FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27426
-#EXTINF:-1 tvg-id="vh1.br" tvg-name="MTV 00s HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/mtv00.png" group-title="Canais | MUSICAIS",MTV 00s HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27427
-#EXTINF:-1 tvg-id="vh1.br" tvg-name="MTV 00s SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/mtv00.png" group-title="Canais | MUSICAIS",MTV 00s SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27428
-#EXTINF:-1 tvg-id="MTVBrazil.br" tvg-name="MTV FHD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/mtv.png" group-title="Canais | MUSICAIS",MTV FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27429
-#EXTINF:-1 tvg-id="MTVBrazil.br" tvg-name="MTV HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/mtv.png" group-title="Canais | MUSICAIS",MTV HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27430
-#EXTINF:-1 tvg-id="MTVBrazil.br" tvg-name="MTV SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/mtv.png" group-title="Canais | MUSICAIS",MTV SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27431
-#EXTINF:-1 tvg-id="MTVLive.uk" tvg-name="MTV Live HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/mtvlive.png" group-title="Canais | MUSICAIS",MTV Live HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27425
-#EXTINF:-1 tvg-id="MTVLive.uk" tvg-name="MTV LIVE SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/mtvlive.png" group-title="Canais | MUSICAIS",MTV LIVE SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/48362
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/multshow.png" group-title="Canais | MUSICAIS",Multishow HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27432
-#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/multshow.png" group-title="Canais | MUSICAIS",Multishow SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27433
-#EXTINF:-1 tvg-id="" tvg-name="Mundo de Gunball 24H" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/183.png" group-title="Canais | INFANTIL 24 HORAS",Mundo de Gunball 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/40807
-#EXTINF:-1 tvg-id="MusicBoxBrazil.br" tvg-name="Music Box Brazil HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/musicboxbrasil.png" group-title="Canais | MUSICAIS",Music Box Brazil HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/48367
-#EXTINF:-1 tvg-id="MusicBoxBrazil.br" tvg-name="Music Box Brazil SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/musicboxbrasil.png" group-title="Canais | MUSICAIS",Music Box Brazil SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/48368
-#EXTINF:-1 tvg-id="" tvg-name="Naruto 24H*" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/186.png" group-title="Canais | INFANTIL 24 HORAS",Naruto 24H*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27506
-#EXTINF:-1 tvg-id="NationalGeographicBrasil.br" tvg-name="National Geographic FHD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/nationalgeografic.png" group-title="Canais | DOCUMENTÁRIOS ",National Geographic FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27237
-#EXTINF:-1 tvg-id="NationalGeographicBrasil.br" tvg-name="National Geographic HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/nationalgeografic.png" group-title="Canais | DOCUMENTÁRIOS ",National Geographic HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27238
-#EXTINF:-1 tvg-id="NationalGeographicBrasil.br" tvg-name="National Geographic SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/nationalgeografic.png" group-title="Canais | DOCUMENTÁRIOS ",National Geographic SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27239
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/mundo/nhk.png" group-title="Canais | MUNDO INTERNACIONAL",NHK HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27446
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/mundo/nhk.png" group-title="Canais | MUNDO INTERNACIONAL",NHK SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27447
-#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick Jr. HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/nickjr.png" group-title="Canais | INFANTIL",Nick Jr. HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27377
-#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick Jr. SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/nickjr.png" group-title="Canais | INFANTIL",Nick Jr. SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27378
-#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon FHD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/nicklodeon.png" group-title="Canais | INFANTIL",Nickelodeon FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27379
-#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/nicklodeon.png" group-title="Canais | INFANTIL",Nickelodeon HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27380
-#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/nicklodeon.png" group-title="Canais | INFANTIL",Nickelodeon SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27381
-#EXTINF:-1 tvg-id="" tvg-name="O Chefinho De Volta aos Negocios (2018)*" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/187.png" group-title="Canais | INFANTIL 24 HORAS",O Chefinho De Volta aos Negocios (2018)*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49800
-#EXTINF:-1 tvg-id="" tvg-name="O Laboratório de Dexter (1996)*" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/189.png" group-title="Canais | INFANTIL 24 HORAS",O Laboratório de Dexter (1996)*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49782
-#EXTINF:-1 tvg-id="" tvg-name="O Pequeno Urso (1995)*" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/191.png" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",O Pequeno Urso (1995)*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49774
-#EXTINF:-1 tvg-id="" tvg-name="O Show da Luna (2014)*" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/192.png" group-title="Canais | INFANTIL 24 HORAS",O Show da Luna (2014)*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49802
-#EXTINF:-1 tvg-id="CanalOff.br" tvg-name="OFF HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/canaloff.png" group-title="Canais | VARIEDADES",OFF HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27656
-#EXTINF:-1 tvg-id="CanalOff.br" tvg-name="OFF SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/canaloff.png" group-title="Canais | VARIEDADES",OFF SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27657
-#EXTINF:-1 tvg-id="" tvg-name="Os 3 patetas 24H*" tvg-logo="" group-title="Canais |  24 HORAS",Os 3 patetas 24H*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27508
-#EXTINF:-1 tvg-id="" tvg-name="Os Padrinhos Magicos (2001)*" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/196.png" group-title="Canais | INFANTIL 24 HORAS",Os Padrinhos Magicos (2001)*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49721
-#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons 24H*" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/198.png" group-title="Canais | INFANTIL 24 HORAS",Os Simpsons 24H*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27484
-#EXTINF:-1 tvg-id="" tvg-name="Os Vingadores 24H*" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/199.png" group-title="Canais |  24 HORAS",Os Vingadores 24H*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27547
-#EXTINF:-1 tvg-id="Rci.br" tvg-name="Pai Eterno HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/paieterno.png" group-title="Canais | RELIGIÃO",Pai Eterno HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27450
-#EXTINF:-1 tvg-id="ParamountNetworkBrasil.br" tvg-name="Paramount Channel FHD*" tvg-logo="http://falko.myddns.me/Logos/H265/53.png" group-title="Canais | FILMES",Paramount Channel FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27193
-#EXTINF:-1 tvg-id="ParamountNetworkBrasil.br" tvg-name="Paramount Channel HD*" tvg-logo="http://falko.myddns.me/Logos/H265/53.png" group-title="Canais | FILMES",Paramount Channel HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27191
-#EXTINF:-1 tvg-id="ParamountNetworkBrasil.br" tvg-name="Paramount Channel SD*" tvg-logo="http://falko.myddns.me/Logos/H265/53.png" group-title="Canais | FILMES",Paramount Channel SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27192
-#EXTINF:-1 tvg-id="" tvg-name="Patrulha Canina (2013)*" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/200.png" group-title="Canais | INFANTIL 24 HORAS",Patrulha Canina (2013)*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49744
-#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig 24H*" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/201.png" group-title="Canais | INFANTIL 24 HORAS",Peppa Pig 24H*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27488
-#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere 1 HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere.png" group-title="Canais | PREMIERE",Premiere 1 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27403
-#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere 1 HD² * " tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere.png" group-title="Canais | PREMIERE",Premiere 1 HD² * 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27404
-#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere 1 SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere.png" group-title="Canais | PREMIERE",Premiere 1 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27405
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere2.png" group-title="Canais | PREMIERE",Premiere 2 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27406
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD² *" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere2.png" group-title="Canais | PREMIERE",Premiere 2 HD² *
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27407
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere2.png" group-title="Canais | PREMIERE",Premiere 2 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27408
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere3.png" group-title="Canais | PREMIERE",Premiere 3 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27409
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD² * " tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere3.png" group-title="Canais | PREMIERE",Premiere 3 HD² * 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27410
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere3.png" group-title="Canais | PREMIERE",Premiere 3 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27411
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere4.png" group-title="Canais | PREMIERE",Premiere 4 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27412
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD² * " tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere4.png" group-title="Canais | PREMIERE",Premiere 4 HD² * 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27413
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere4.png" group-title="Canais | PREMIERE",Premiere 4 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27414
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere5.png" group-title="Canais | PREMIERE",Premiere 5 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27415
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD² * " tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere5.png" group-title="Canais | PREMIERE",Premiere 5 HD² * 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27416
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere5.png" group-title="Canais | PREMIERE",Premiere 5 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27417
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere6.png" group-title="Canais | PREMIERE",Premiere 6 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27418
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere6.png" group-title="Canais | PREMIERE",Premiere 6 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27419
-#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere7.png" group-title="Canais | PREMIERE",Premiere 7 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27420
-#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD² * " tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere7.png" group-title="Canais | PREMIERE",Premiere 7 HD² * 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27421
-#EXTINF:-1 tvg-id="PrimeBoxBrazil.br" tvg-name="Prime Box Brazil HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/primeboxbrasil.png" group-title="Canais | FILMES",Prime Box Brazil HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/48369
-#EXTINF:-1 tvg-id="PrimeBoxBrazil.br" tvg-name="Prime Box Brazil SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/primeboxbrasil.png" group-title="Canais | FILMES",Prime Box Brazil SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/48370
-#EXTINF:-1 tvg-id="RaiItaliaNordAmerica.it" tvg-name="RAI HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/mundo/rai.png" group-title="Canais | MUNDO INTERNACIONAL",RAI HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49137
-#EXTINF:-1 tvg-id="RaiItaliaNordAmerica.it" tvg-name="RAI SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/mundo/rai.png" group-title="Canais | MUNDO INTERNACIONAL",RAI SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49138
-#EXTINF:-1 tvg-id="RecordItapoan.br" tvg-name="RECORD BAHIA HD*" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",RECORD BAHIA HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/50383
-#EXTINF:-1 tvg-id="RecordMinas.br" tvg-name="Record BH HD*" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",Record BH HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/50384
-#EXTINF:-1 tvg-id="RecordGoias.br" tvg-name="RECORD DF HD*" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",RECORD DF HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/50386
-#EXTINF:-1 tvg-id="RecordGoias.br" tvg-name="RECORD DF HD*" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",RECORD DF HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/50385
-#EXTINF:-1 tvg-id="RecordSaoPaulo.br" tvg-name="Record Campinas HD*" tvg-logo="http://logos.nineuhd.xyz/rederecord.png" group-title="Canais | ABERTOS",Record Campinas HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27145
-#EXTINF:-1 tvg-id="RecordMinas.br" tvg-name="RECORD MG HD*" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",RECORD MG HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/50387
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/noticias/recordnews.png" group-title="Canais | NOTÍCIAS ",Record News HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27438
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/noticias/recordnews.png" group-title="Canais | NOTÍCIAS ",Record News SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27439
-#EXTINF:-1 tvg-id="RecordNacional.br" tvg-name="RECORD PA HD*" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",RECORD PA HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/50388
-#EXTINF:-1 tvg-id="RecordRio.br" tvg-name="RECORD RJ HD*" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",RECORD RJ HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/50389
-#EXTINF:-1 tvg-id="RecordRioGrandedoSul.br" tvg-name="RECORD RS HD*" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",RECORD RS HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/50390
-#EXTINF:-1 tvg-id="RecordPaulista.br" tvg-name="Record Campinas SD*" tvg-logo="http://logos.nineuhd.xyz/rederecord.png" group-title="Canais | ABERTOS",Record Campinas SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27142
-#EXTINF:-1 tvg-id="RecordPaulista.br" tvg-name="Record SP HD*" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title="Canais | ABERTOS",Record SP HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27143
-#EXTINF:-1 tvg-id="RecordPaulista.br" tvg-name="Record SP SD*" tvg-logo="http://logos.nineuhd.xyz/rederecord.png" group-title="Canais | ABERTOS",Record SP SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27144
-#EXTINF:-1 tvg-id="RedeFamilia.br" tvg-name="Rede Família SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/redefamilia.png" group-title="Canais | RELIGIÃO",Rede Família SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/48371
-#EXTINF:-1 tvg-id="RedeFamilia.br" tvg-name="Rede Família SHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/redefamilia.png" group-title="Canais | RELIGIÃO",Rede Família SHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/31823
-#EXTINF:-1 tvg-id="RedeVida.br" tvg-name="Rede Vida HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/redevida.png" group-title="Canais | RELIGIÃO",Rede Vida HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27456
-#EXTINF:-1 tvg-id="redevida.br" tvg-name="Rede Vida SD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="Canais | ABERTOS",Rede Vida SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27137
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV HD*" tvg-logo="http://sbocs.no-ip.net/logo/redetv.png" group-title="Canais | ABERTOS",RedeTV HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27138
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV SD*" tvg-logo="http://sbocs.no-ip.net/logo/redetv.png" group-title="Canais | ABERTOS",RedeTV SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27139
-#EXTINF:-1 tvg-id="TVRaTimBum.br" tvg-name="Rá -Tim Bum- HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/ratimbum.png" group-title="Canais | INFANTIL",Rá -Tim Bum- HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27375
-#EXTINF:-1 tvg-id="TVRaTimBum.br" tvg-name="Rá- Tim- Bum SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/ratimbum.png" group-title="Canais | INFANTIL",Rá- Tim- Bum SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27376
-#EXTINF:-1 tvg-id="" tvg-name="Sabor & Arte HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/saborearte.png" group-title="Canais | VARIEDADES",Sabor & Arte HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/48354
-#EXTINF:-1 tvg-id="" tvg-name="Sabor & Arte SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/saborearte.png" group-title="Canais | VARIEDADES",Sabor & Arte SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/48355
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD*" tvg-logo="http://sbocs.no-ip.net/logo/sbt.png" group-title="Canais | ABERTOS",SBT HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27140
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SD*" tvg-logo="http://sbocs.no-ip.net/logo/sbt.png" group-title="Canais | ABERTOS",SBT SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27141
-#EXTINF:-1 tvg-id="smithsonianchannel.br" tvg-name="Smithsonian HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/smithsonian.png" group-title="Canais | DOCUMENTÁRIOS ",Smithsonian HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27232
-#EXTINF:-1 tvg-id="smithsonianchannel.br" tvg-name="Smithsonian SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/smithsonian.png" group-title="Canais | DOCUMENTÁRIOS ",Smithsonian SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/48374
-#EXTINF:-1 tvg-id="SpaceBrasil.br" tvg-name="Space FHD*" tvg-logo="http://falko.myddns.me/Logos/H265/55.png" group-title="Canais | FILMES",Space FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27194
-#EXTINF:-1 tvg-id="SpaceBrasil.br" tvg-name="Space HD*" tvg-logo="http://falko.myddns.me/Logos/H265/55.png" group-title="Canais | FILMES",Space HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27195
-#EXTINF:-1 tvg-id="SpaceBrasil.br" tvg-name="Space SD*" tvg-logo="http://falko.myddns.me/Logos/H265/55.png" group-title="Canais | FILMES",Space SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27196
-#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2 HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/sportv2.png" group-title="Canais | ESPORTES",SporTV 2 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27277
-#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2 SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/sportv2.png" group-title="Canais | ESPORTES",SporTV 2 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27278
-#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3 HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/sportv3.png" group-title="Canais | ESPORTES",SporTV 3 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27279
-#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3 SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/sportv3.png" group-title="Canais | ESPORTES",SporTV 3 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27280
-#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/sportv.png" group-title="Canais | ESPORTES",SporTV HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27275
-#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/sportv.png" group-title="Canais | ESPORTES",SporTV SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27276
-#EXTINF:-1 tvg-id="StarChannelBrasil.br" tvg-name="Star Channel HD*" tvg-logo="http://falko.myddns.me/Logos/H265/57.png" group-title="Canais | FILMES E SÉRIES ",Star Channel HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27363
-#EXTINF:-1 tvg-id="StarChannelBrasil.br" tvg-name="Star Channel FHD*" tvg-logo="http://falko.myddns.me/Logos/H265/57.png" group-title="Canais | FILMES E SÉRIES ",Star Channel FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27364
-#EXTINF:-1 tvg-id="starlife.br" tvg-name="Cinecanal FHD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/cinecanal/cinecanal.png" group-title="Canais | VARIEDADES",Cinecanal FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27660
-#EXTINF:-1 tvg-id="starlife.br" tvg-name="Cinecanal HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/cinecanal/cinecanal.png" group-title="Canais | VARIEDADES",Cinecanal HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27661
-#EXTINF:-1 tvg-id="starlife.br" tvg-name="Cinecanal SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/cinecanal/cinecanal.png" group-title="Canais | VARIEDADES",Cinecanal SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27662
-#EXTINF:-1 tvg-id="" tvg-name="Star Plus HD*" tvg-logo="http://sbocs.no-ip.net/logo/24h/starplus.png" group-title="Canais I ESPORTES STREAMING",Star Plus HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/46600
-#EXTINF:-1 tvg-id="" tvg-name="Star Plus SD*" tvg-logo="http://sbocs.no-ip.net/logo/24h/starplus.png" group-title="Canais I ESPORTES STREAMING",Star Plus SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/46601
-#EXTINF:-1 tvg-id="StarChannelBrasil.br" tvg-name="Star Channel SD*" tvg-logo="http://falko.myddns.me/Logos/H265/57.png" group-title="Canais | FILMES E SÉRIES ",Star Channel SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27356
-#EXTINF:-1 tvg-id="StudioUniversalBrasil.br" tvg-name="Studio Universal HD*" tvg-logo="http://sbocs.no-ip.net/logo/universalchannel.png" group-title="Canais | FILMES E SÉRIES ",Studio Universal HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27337
-#EXTINF:-1 tvg-id="StudioUniversalBrasil.br" tvg-name="Studio Universal SD*" tvg-logo="http://sbocs.no-ip.net/logo/universalchannel.png" group-title="Canais | FILMES E SÉRIES ",Studio Universal SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27338
-#EXTINF:-1 tvg-id="" tvg-name="Super Amigos (1973)*" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/207.png" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",Super Amigos (1973)*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49740
-#EXTINF:-1 tvg-id="" tvg-name="Superman A Série Animada (1996)*" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/208.png" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",Superman A Série Animada (1996)*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49764
-#EXTINF:-1 tvg-id="SyfyBrasil.br" tvg-name="Syfy FHD*" tvg-logo="http://srv.maxptv.net:8080/images/8d7eecbb2c298e8dc11e847ccf0c2a9e.png" group-title="Canais | FILMES E SÉRIES ",Syfy FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27339
-#EXTINF:-1 tvg-id="SyfyBrasil.br" tvg-name="Syfy HD*" tvg-logo="http://srv.maxptv.net:8080/images/8d7eecbb2c298e8dc11e847ccf0c2a9e.png" group-title="Canais | FILMES E SÉRIES ",Syfy HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27340
-#EXTINF:-1 tvg-id="SyfyBrasil.br" tvg-name="Syfy SD*" tvg-logo="http://srv.maxptv.net:8080/images/8d7eecbb2c298e8dc11e847ccf0c2a9e.png" group-title="Canais | FILMES E SÉRIES ",Syfy SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27341
-#EXTINF:-1 tvg-id="" tvg-name="Sítio do Pica Pau Amarelo 24H" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/209.png" group-title="Canais | INFANTIL 24 HORAS",Sítio do Pica Pau Amarelo 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/40817
-#EXTINF:-1 tvg-id="" tvg-name="Taz-Mania (1991)*" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/210.png" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",Taz-Mania (1991)*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49752
-#EXTINF:-1 tvg-id="TBSBrasil.br" tvg-name="TBS FHD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/tbs.png" group-title="Canais | FILMES E SÉRIES ",TBS FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27342
-#EXTINF:-1 tvg-id="TBSBrasil.br" tvg-name="Tbs HD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/tbs.png" group-title="Canais | FILMES E SÉRIES ",Tbs HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27343
-#EXTINF:-1 tvg-id="TBSBrasil.br" tvg-name="Tbs SD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/tbs.png" group-title="Canais | FILMES E SÉRIES ",Tbs SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27344
-#EXTINF:-1 tvg-id="TCMBrasil.br" tvg-name="TCM HD*" tvg-logo="http://logos.nineuhd.xyz/tcm.png" group-title="Canais | FILMES",TCM HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27197
-#EXTINF:-1 tvg-id="TCMBrasil.br" tvg-name="TCM SD*" tvg-logo="http://logos.nineuhd.xyz/tcm.png" group-title="Canais | FILMES",TCM SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27198
-#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action FHD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecineaction.png" group-title="Canais | TELECINE",Telecine Action FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27457
-#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action HD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecineaction.png" group-title="Canais | TELECINE",Telecine Action HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27458
-#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action SD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecineaction.png" group-title="Canais | TELECINE",Telecine Action SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27459
-#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="Telecine Cult FHD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinecult.png" group-title="Canais | TELECINE",Telecine Cult FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27460
-#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="Telecine Cult HD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinecult.png" group-title="Canais | TELECINE",Telecine Cult HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27461
-#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="Telecine Cult SD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinecult.png" group-title="Canais | TELECINE",Telecine Cult SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27462
-#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="Telecine Fun HD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinefun.png" group-title="Canais | TELECINE",Telecine Fun HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27463
-#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="Telecine Fun SD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinefun.png" group-title="Canais | TELECINE",Telecine Fun SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27464
-#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="Telecine Pipoca FHD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinepipoca.png" group-title="Canais | TELECINE",Telecine Pipoca FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27465
-#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="Telecine Pipoca HD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinepipoca.png" group-title="Canais | TELECINE",Telecine Pipoca HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27466
-#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="Telecine Pipoca SD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinepipoca.png" group-title="Canais | TELECINE",Telecine Pipoca SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27467
-#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium FHD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinepremiun.png" group-title="Canais | TELECINE",Telecine Premium FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27469
-#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium HD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinepremiun.png" group-title="Canais | TELECINE",Telecine Premium HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27468
-#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium SD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinepremiun.png" group-title="Canais | TELECINE",Telecine Premium SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27470
-#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="Telecine Touch FHD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinetouch.png" group-title="Canais | TELECINE",Telecine Touch FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27471
-#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="Telecine Touch HD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinetouch.png" group-title="Canais | TELECINE",Telecine Touch HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27472
-#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="Telecine Touch SD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinetouch.png" group-title="Canais | TELECINE",Telecine Touch SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27473
-#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/terraviva.png" group-title="Canais I CORTESIA",Terra Viva HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49050
-#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/terraviva.png" group-title="Canais I CORTESIA",Terra Viva SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49051
-#EXTINF:-1 tvg-id="" tvg-name="The Backyardigans 24H" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/211.png" group-title="Canais | INFANTIL 24 HORAS",The Backyardigans 24H
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/40808
-#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory 24H*" tvg-logo="https://portalovertube.com/wp-content/uploads/2014/08/big-bang-theory.png" group-title="Canais |  24 HORAS",The Big Bang Theory 24H*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27511
-#EXTINF:-1 tvg-id="" tvg-name="ThunderCats (1983)*" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/212.png" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",ThunderCats (1983)*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49742
-#EXTINF:-1 tvg-id="" tvg-name="ThunderCats 24H Ultra HD" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/212.png" group-title="Canais | INFANTIL 24 HORAS",ThunderCats 24H Ultra HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/40815
-#EXTINF:-1 tvg-id="TLCBrasil.br" tvg-name="TLC HD*" tvg-logo="http://srv.maxptv.net:8080/images/3eda66e6f75fcff54bca6f421fb35a38.png" group-title="Canais | VARIEDADES",TLC HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27646
-#EXTINF:-1 tvg-id="TLCBrasil.br" tvg-name="TLC SD*" tvg-logo="http://srv.maxptv.net:8080/images/3eda66e6f75fcff54bca6f421fb35a38.png" group-title="Canais | VARIEDADES",TLC SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27647
-#EXTINF:-1 tvg-id="TNTBrasil.br" tvg-name="TNT FHD*" tvg-logo="http://falko.myddns.me/Logos/H265/65.png" group-title="Canais | FILMES",TNT FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27199
-#EXTINF:-1 tvg-id="TNTBrasil.br" tvg-name="TNT HD* ²" tvg-logo="http://falko.myddns.me/Logos/H265/65.png" group-title="Canais | FILMES",TNT HD* ²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27201
-#EXTINF:-1 tvg-id="TNTSeriesBrasil.br" tvg-name="TNT Series HD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/tntseries.png" group-title="Canais | FILMES E SÉRIES ",TNT Series HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27335
-#EXTINF:-1 tvg-id="TNTSeriesBrasil.br" tvg-name="TNT Series SD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/tntseries.png" group-title="Canais | FILMES E SÉRIES ",TNT Series SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27336
-#EXTINF:-1 tvg-id="TNTSeriesBrasil.br" tvg-name="TNT Séries FHD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/tntseries.png" group-title="Canais | FILMES E SÉRIES ",TNT Séries FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27334
-#EXTINF:-1 tvg-id="TNTBrasil.br" tvg-name="TNT [HD]" tvg-logo="http://falko.myddns.me/Logos/H265/65.png" group-title="Canais | FILMES",TNT [HD]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27200
-#EXTINF:-1 tvg-id="TNTBrasil.br" tvg-name="TNT [SD]" tvg-logo="http://falko.myddns.me/Logos/H265/65.png" group-title="Canais | FILMES",TNT [SD]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27202
-#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry  24H*" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/213.png" group-title="Canais | INFANTIL 24 HORAS",Tom & Jerry  24H*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27490
-#EXTINF:-1 tvg-id="" tvg-name="Tom e Jerry (1975)*" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/214.png" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",Tom e Jerry (1975)*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49767
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/tooncast.png" group-title="Canais | INFANTIL",Tooncast HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27373
-#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/tooncast.png" group-title="Canais | INFANTIL",Tooncast SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27374
-#EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-name="Trace Brazuca HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/tracebrazucas.png" group-title="Canais | MUSICAIS",Trace Brazuca HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/50415
-#EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-name="Trace Brazuca SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/tracebrazucas.png" group-title="Canais | MUSICAIS",Trace Brazuca SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/50414
-#EXTINF:-1 tvg-id="TravelBoxBrazil.br" tvg-name="Travel Box Brazil HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/travelbosbrasil.png" group-title="Canais I CORTESIA",Travel Box Brazil HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/48360
-#EXTINF:-1 tvg-id="TravelBoxBrazil.br" tvg-name="Travel Box Brazil SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/travelbosbrasil.png" group-title="Canais I CORTESIA",Travel Box Brazil SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/48361
-#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/tvaparecida.png" group-title="Canais | RELIGIÃO",TV Aparecida HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27454
-#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/tvaparecida.png" group-title="Canais | RELIGIÃO",TV Aparecida SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27455
-#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil 2 HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/tvbrasil2.png" group-title="Canais I CORTESIA",TV Brasil 2 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49131
-#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil 2 SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/tvbrasil2.png" group-title="Canais I CORTESIA",TV Brasil 2 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49132
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta FHD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/gazeta.png" group-title="Canais I CORTESIA",TV Gazeta FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49238
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta HD*" tvg-logo="http://srv.maxptv.net:8080/images/ab81a01d70dfed850894655b5903e732.png" group-title="Canais I CORTESIA",TV Gazeta HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49240
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta SD*" tvg-logo="http://srv.maxptv.net:8080/images/ab81a01d70dfed850894655b5903e732.png" group-title="Canais I CORTESIA",TV Gazeta SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49241
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="Tv Globinho  HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/tvglobinho.png" group-title="Canais | INFANTIL",Tv Globinho  HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27449
-#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="Tv Globinho  SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/tvglobinho.png" group-title="Canais | INFANTIL",Tv Globinho  SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27448
-#EXTINF:-1 tvg-id="TVJustica.br" tvg-name="Tv Justiça" tvg-logo="http://sbocs.no-ip.net/logosiptv/noticias/tvjustica.png" group-title="Canais | NOTÍCIAS ",Tv Justiça
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27436
-#EXTINF:-1 tvg-id="TVNovoTempoBrasil.br" tvg-name="TV Novo Tempo HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/novotempo.png" group-title="Canais | RELIGIÃO",TV Novo Tempo HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27453
-#EXTINF:-1 tvg-id="TVNovoTempoBrasil.br" tvg-name="TV NOVO TEMPO HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/novotempo.png" group-title="Canais | RELIGIÃO",TV NOVO TEMPO HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/48364
-#EXTINF:-1 tvg-id="TVNovoTempoBrasil.br" tvg-name="TV NOVO TEMPO SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/novotempo.png" group-title="Canais | RELIGIÃO",TV NOVO TEMPO SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/48363
-#EXTINF:-1 tvg-id="TVSenado.br" tvg-name="Tv Senado" tvg-logo="http://sbocs.no-ip.net/logosiptv/noticias/tvsenado.png" group-title="Canais | NOTÍCIAS ",Tv Senado
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27437
-#EXTINF:-1 tvg-id="Playtv.br" tvg-name="TV WA HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/tvwa.png" group-title="Canais I CORTESIA",TV WA HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49140
-#EXTINF:-1 tvg-id="Playtv.br" tvg-name="TV WA SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/tvwa.png" group-title="Canais I CORTESIA",TV WA SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49139
-#EXTINF:-1 tvg-id="" tvg-name="TV5 HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/mundo/tv5mond.png" group-title="Canais | MUNDO INTERNACIONAL",TV5 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49149
-#EXTINF:-1 tvg-id="" tvg-name="TV5 SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/mundo/tv5mond.png" group-title="Canais | MUNDO INTERNACIONAL",TV5 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/49150
-#EXTINF:-1 tvg-id="" tvg-name="Two And a Half Man 24H*" tvg-logo="http://sbocs.no-ip.net/logo/twoandhalfman.png" group-title="Canais |  24 HORAS",Two And a Half Man 24H*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27509
-#EXTINF:-1 tvg-id="UniversalTVBrasil.br" tvg-name="Universal Channel FHD*" tvg-logo="http://sbocs.no-ip.net/logo/universalchannel.png" group-title="Canais | FILMES E SÉRIES ",Universal Channel FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27331
-#EXTINF:-1 tvg-id="UniversalTVBrasil.br" tvg-name="Universal Channel HD*" tvg-logo="http://sbocs.no-ip.net/logo/universalchannel.png" group-title="Canais | FILMES E SÉRIES ",Universal Channel HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27332
-#EXTINF:-1 tvg-id="UniversalTVBrasil.br" tvg-name="Universal Channel SD*" tvg-logo="http://sbocs.no-ip.net/logo/universalchannel.png" group-title="Canais | FILMES E SÉRIES ",Universal Channel SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27333
-#EXTINF:-1 tvg-id="Venus.br" tvg-name="Venus HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png" group-title="Canais | [XXX] ADULTO",Venus HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27476
-#EXTINF:-1 tvg-id="Venus.br" tvg-name="Venus SD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png" group-title="Canais | [XXX] ADULTO",Venus SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27477
-#EXTINF:-1 tvg-id="CanalViva.br" tvg-name="Viva HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/viva.png" group-title="Canais | VARIEDADES",Viva HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27644
-#EXTINF:-1 tvg-id="CanalViva.br" tvg-name="Viva SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/viva.png" group-title="Canais | VARIEDADES",Viva SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27645
-#EXTINF:-1 tvg-id="WarnerChannelBrasil.br" tvg-name="Warner Channel FHD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/warner.png" group-title="Canais | FILMES E SÉRIES ",Warner Channel FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27330
-#EXTINF:-1 tvg-id="WarnerChannelBrasil.br" tvg-name="Warner Channel HD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/warner.png" group-title="Canais | FILMES E SÉRIES ",Warner Channel HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27328
-#EXTINF:-1 tvg-id="WarnerChannelBrasil.br" tvg-name="Warner Channel SD*" tvg-logo="http://sbocs.no-ip.net/logo/canais/warner.png" group-title="Canais | FILMES E SÉRIES ",Warner Channel SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27329
-#EXTINF:-1 tvg-id="WooHoo.br" tvg-name="Woohoo HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/wohoo.png" group-title="Canais | VARIEDADES",Woohoo HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27663
-#EXTINF:-1 tvg-id="WooHoo.br" tvg-name="Woohoo SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/wohoo.png" group-title="Canais | VARIEDADES",Woohoo SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27664
-#EXTINF:-1 tvg-id="" tvg-name="X-Men Evolution 24H*" tvg-logo="https://i.imgur.com/3LTJ2Oj.gif" group-title="Canais | INFANTIL 24 HORAS",X-Men Evolution 24H*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27491
-#EXTINF:-1 tvg-id="ZooMooBrasil.nz" tvg-name="ZooMoo HD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/zoomo.png" group-title="Canais | INFANTIL",ZooMoo HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27371
-#EXTINF:-1 tvg-id="ZooMooBrasil.nz" tvg-name="ZooMoo SD*" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/zoomo.png" group-title="Canais | INFANTIL",ZooMoo SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/27372
-#EXTINF:-1 tvg-id="CinemaxBrasil.br" tvg-name="Cinemax HD*" tvg-logo="http://falko.myddns.me/Logos/H265/30.png" group-title="Canais | FILMES",Cinemax HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/51391
-#EXTINF:-1 tvg-id="CinemaxBrasil.br" tvg-name="Cinemax SD*" tvg-logo="http://falko.myddns.me/Logos/H265/30.png" group-title="Canais | FILMES",Cinemax SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/51392
-#EXTINF:-1 tvg-id="CinemaxBrasil.br" tvg-name="Cinemax FHD*" tvg-logo="http://falko.myddns.me/Logos/H265/30.png" group-title="Canais | FILMES",Cinemax FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=99999&amp;url=http://51.89.98.62:8080/BMW893/121212/51393
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] A&E FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113737
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] A&E HD
+http://cdn.cteam.me:80/romario2022/2022romario/113738
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] A&E SD
+http://cdn.cteam.me:80/romario2022/2022romario/113739
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Agro Canal HD
+http://cdn.cteam.me:80/romario2022/2022romario/113740
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Agro+ HD
+http://cdn.cteam.me:80/romario2022/2022romario/113741
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] AgroBrasil TV HD
+http://cdn.cteam.me:80/romario2022/2022romario/113742
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] All KPOP FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113743
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR]  All Sports HD
+http://cdn.cteam.me:80/romario2022/2022romario/113744
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] AMC FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113745
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] AMC HD
+http://cdn.cteam.me:80/romario2022/2022romario/113746
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] AMC SD
+http://cdn.cteam.me:80/romario2022/2022romario/113747
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Animal Planet 4K
+http://cdn.cteam.me:80/romario2022/2022romario/113748
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Animal Planet FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113749
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Animal Planet HD
+http://cdn.cteam.me:80/romario2022/2022romario/113750
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Animal Planet SD
+http://cdn.cteam.me:80/romario2022/2022romario/113751
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Arte 1 FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113752
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Arte 1 HD
+http://cdn.cteam.me:80/romario2022/2022romario/113753
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Arte 1 SD
+http://cdn.cteam.me:80/romario2022/2022romario/113754
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] As Aventuras de Jackie Chan (PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/113755
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] As Pistas de Blue (PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/113756
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] AXN 4K
+http://cdn.cteam.me:80/romario2022/2022romario/113757
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] AXN FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113758
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] AXN HD
+http://cdn.cteam.me:80/romario2022/2022romario/113759
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] AXN HD²
+http://cdn.cteam.me:80/romario2022/2022romario/113760
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] AXN SD
+http://cdn.cteam.me:80/romario2022/2022romario/113761
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Baby TV FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113762
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Baby TV HD
+http://cdn.cteam.me:80/romario2022/2022romario/113763
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Babyfirst(PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/113764
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Bah! TV FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113765
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Band Bahia HD
+http://cdn.cteam.me:80/romario2022/2022romario/113766
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Band Brasilia HD
+http://cdn.cteam.me:80/romario2022/2022romario/113767
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Band Campinas HD
+http://cdn.cteam.me:80/romario2022/2022romario/113768
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Band CE HD
+http://cdn.cteam.me:80/romario2022/2022romario/113769
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Band FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113770
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Band HD
+http://cdn.cteam.me:80/romario2022/2022romario/113771
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Band MG FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113772
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Band News FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113773
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Band News HD
+http://cdn.cteam.me:80/romario2022/2022romario/113774
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Band News SD
+http://cdn.cteam.me:80/romario2022/2022romario/113775
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Band PA HD
+http://cdn.cteam.me:80/romario2022/2022romario/113776
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Band RJ FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113777
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Band RJ HD
+http://cdn.cteam.me:80/romario2022/2022romario/113778
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Band RS FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113779
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Band SD
+http://cdn.cteam.me:80/romario2022/2022romario/113780
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Band SD²
+http://cdn.cteam.me:80/romario2022/2022romario/113781
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Band SP 4K
+http://cdn.cteam.me:80/romario2022/2022romario/113782
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Band SP FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113783
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Band SP HD
+http://cdn.cteam.me:80/romario2022/2022romario/113784
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Band Sports FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113785
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Band Sports HD
+http://cdn.cteam.me:80/romario2022/2022romario/113786
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Band Sports SD
+http://cdn.cteam.me:80/romario2022/2022romario/113787
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] BET Being Mary Jane(PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/113788
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] BET Pluto TV(PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/113789
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] BIS FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113790
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] BIS HD
+http://cdn.cteam.me:80/romario2022/2022romario/113791
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] BIS SD
+http://cdn.cteam.me:80/romario2022/2022romario/113792
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Bloomberg Brasil
+http://cdn.cteam.me:80/romario2022/2022romario/113793
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Bloomberg HD
+http://cdn.cteam.me:80/romario2022/2022romario/113794
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Boa Vontade TV FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113795
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Boa Vontade TV HD
+http://cdn.cteam.me:80/romario2022/2022romario/113796
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Boas Novas HD
+http://cdn.cteam.me:80/romario2022/2022romario/113797
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Box Kids TV HD
+http://cdn.cteam.me:80/romario2022/2022romario/113798
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Brasileirão-C Dazn|TVNsports 01
+http://cdn.cteam.me:80/romario2022/2022romario/113799
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Brasileirão-C Dazn|TVNsports 02
+http://cdn.cteam.me:80/romario2022/2022romario/113800
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Brasileirão-C Dazn|TVNsports 03
+http://cdn.cteam.me:80/romario2022/2022romario/113801
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Brasileirão-C Dazn|TVNsports 04
+http://cdn.cteam.me:80/romario2022/2022romario/113802
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Canal Brasil FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113803
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Canal Brasil HD
+http://cdn.cteam.me:80/romario2022/2022romario/113804
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Canal Brasil SD
+http://cdn.cteam.me:80/romario2022/2022romario/113805
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Canal do Boi FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113806
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Canal Rural FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113807
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Canção Nova FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113808
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Canção Nova HD
+http://cdn.cteam.me:80/romario2022/2022romario/113809
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Cartoon Network 4K
+http://cdn.cteam.me:80/romario2022/2022romario/113810
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Cartoon Network FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113811
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Cartoon Network HD
+http://cdn.cteam.me:80/romario2022/2022romario/113812
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Cartoon Network SD
+http://cdn.cteam.me:80/romario2022/2022romario/113813
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Cartoonito FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113814
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Cartoonito FHD*
+http://cdn.cteam.me:80/romario2022/2022romario/113815
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Cartoonito HD
+http://cdn.cteam.me:80/romario2022/2022romario/113816
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Cartoonito SD
+http://cdn.cteam.me:80/romario2022/2022romario/113817
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] CATVE HD
+http://cdn.cteam.me:80/romario2022/2022romario/113818
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] CBN Rio
+http://cdn.cteam.me:80/romario2022/2022romario/113819
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] CBN São Paulo
+http://cdn.cteam.me:80/romario2022/2022romario/113820
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Central|Top TV HD
+http://cdn.cteam.me:80/romario2022/2022romario/113821
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] CINE SKY Aventura
+http://cdn.cteam.me:80/romario2022/2022romario/113822
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] CINE SKY Ação
+http://cdn.cteam.me:80/romario2022/2022romario/113823
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] CINE SKY Comédia
+http://cdn.cteam.me:80/romario2022/2022romario/113824
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] CINE SKY Drama
+http://cdn.cteam.me:80/romario2022/2022romario/113825
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] CINE SKY Faroeste
+http://cdn.cteam.me:80/romario2022/2022romario/113826
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] CINE SKY Ficção
+http://cdn.cteam.me:80/romario2022/2022romario/113827
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] CINE SKY Infantil
+http://cdn.cteam.me:80/romario2022/2022romario/113828
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] CINE SKY Policial
+http://cdn.cteam.me:80/romario2022/2022romario/113829
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] CINE SKY Suspense
+http://cdn.cteam.me:80/romario2022/2022romario/113830
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] CINE SKY Terror
+http://cdn.cteam.me:80/romario2022/2022romario/113831
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] CineCanal FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113832
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] CineCanal HD
+http://cdn.cteam.me:80/romario2022/2022romario/113833
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] CineCanal SD
+http://cdn.cteam.me:80/romario2022/2022romario/113834
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Cinemax FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113835
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Cinemax HD
+http://cdn.cteam.me:80/romario2022/2022romario/113836
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Cinemax SD
+http://cdn.cteam.me:80/romario2022/2022romario/113837
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Classic Hits
+http://cdn.cteam.me:80/romario2022/2022romario/113838
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] CNN Brasil 4K
+http://cdn.cteam.me:80/romario2022/2022romario/113839
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] CNN Brasil FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113840
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] CNN Brasil HD
+http://cdn.cteam.me:80/romario2022/2022romario/113841
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] CNN Brasil SD
+http://cdn.cteam.me:80/romario2022/2022romario/113842
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] CNN Espanhol FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113843
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] CNN Espanhol HD
+http://cdn.cteam.me:80/romario2022/2022romario/113844
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] CNN Espanhol SD
+http://cdn.cteam.me:80/romario2022/2022romario/113845
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] CNN Internacional FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113846
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] CNN Internacional HD
+http://cdn.cteam.me:80/romario2022/2022romario/113847
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] CNN Internacional SD
+http://cdn.cteam.me:80/romario2022/2022romario/113848
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] CNN Portugal FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113849
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] CNN Portugal HD
+http://cdn.cteam.me:80/romario2022/2022romario/113850
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] CNT HD
+http://cdn.cteam.me:80/romario2022/2022romario/113851
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] COM Brasil TV HD
+http://cdn.cteam.me:80/romario2022/2022romario/113852
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Combate 4K
+http://cdn.cteam.me:80/romario2022/2022romario/113853
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Combate FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113854
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Combate HD
+http://cdn.cteam.me:80/romario2022/2022romario/113855
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Combate SD
+http://cdn.cteam.me:80/romario2022/2022romario/113856
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Comedy Central 4K
+http://cdn.cteam.me:80/romario2022/2022romario/113857
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Comedy Central FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113858
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Comedy Central HD
+http://cdn.cteam.me:80/romario2022/2022romario/113859
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Comedy Central Pluto TV(PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/113860
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Comedy Central SD
+http://cdn.cteam.me:80/romario2022/2022romario/113861
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Comedy Central South Park[Not 24/7](PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/113862
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Conmebol 1 HD
+http://cdn.cteam.me:80/romario2022/2022romario/113863
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Conmebol 2 HD
+http://cdn.cteam.me:80/romario2022/2022romario/113864
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Conmebol 3 HD
+http://cdn.cteam.me:80/romario2022/2022romario/113865
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Conmebol 4 HD
+http://cdn.cteam.me:80/romario2022/2022romario/113866
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Copa do Brasil | Prime Video 1
+http://cdn.cteam.me:80/romario2022/2022romario/113867
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Copa do Brasil | Prime Video 2
+http://cdn.cteam.me:80/romario2022/2022romario/113868
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Curta! FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113869
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Curta! HD
+http://cdn.cteam.me:80/romario2022/2022romario/113870
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Curta! SD
+http://cdn.cteam.me:80/romario2022/2022romario/113871
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Dark Matter TV Brazil HD
+http://cdn.cteam.me:80/romario2022/2022romario/113872
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] DAZN 1 HD
+http://cdn.cteam.me:80/romario2022/2022romario/113873
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] DAZN 2 HD
+http://cdn.cteam.me:80/romario2022/2022romario/113874
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] DAZN 3 HD
+http://cdn.cteam.me:80/romario2022/2022romario/113875
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] DAZN 4 HD
+http://cdn.cteam.me:80/romario2022/2022romario/113876
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] DAZN 5 HD
+http://cdn.cteam.me:80/romario2022/2022romario/113877
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Discovery Channel 4K
+http://cdn.cteam.me:80/romario2022/2022romario/113878
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Discovery Channel FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113879
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Discovery Channel HD
+http://cdn.cteam.me:80/romario2022/2022romario/113880
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Discovery Channel SD
+http://cdn.cteam.me:80/romario2022/2022romario/113881
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Discovery H&H 4K
+http://cdn.cteam.me:80/romario2022/2022romario/113882
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Discovery H&H FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113883
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Discovery H&H HD
+http://cdn.cteam.me:80/romario2022/2022romario/113884
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Discovery H&H SD
+http://cdn.cteam.me:80/romario2022/2022romario/113885
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Discovery ID FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113886
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Discovery ID HD
+http://cdn.cteam.me:80/romario2022/2022romario/113887
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Discovery ID SD
+http://cdn.cteam.me:80/romario2022/2022romario/113888
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Discovery Kids FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113889
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Discovery Kids HD
+http://cdn.cteam.me:80/romario2022/2022romario/113890
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Discovery Kids SD
+http://cdn.cteam.me:80/romario2022/2022romario/113891
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Discovery Science FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113892
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Discovery Science HD
+http://cdn.cteam.me:80/romario2022/2022romario/113893
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Discovery Science SD
+http://cdn.cteam.me:80/romario2022/2022romario/113894
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Discovery Theather FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113895
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Discovery Theather HD
+http://cdn.cteam.me:80/romario2022/2022romario/113896
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Discovery Theather SD
+http://cdn.cteam.me:80/romario2022/2022romario/113897
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Discovery Turbo 4K
+http://cdn.cteam.me:80/romario2022/2022romario/113898
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Discovery Turbo FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113899
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Discovery Turbo HD
+http://cdn.cteam.me:80/romario2022/2022romario/113900
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Discovery Turbo SD
+http://cdn.cteam.me:80/romario2022/2022romario/113901
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Discovery World FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113902
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Discovery World HD
+http://cdn.cteam.me:80/romario2022/2022romario/113903
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Discovery World SD
+http://cdn.cteam.me:80/romario2022/2022romario/113904
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Disney Channel FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113905
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Disney Channel HD
+http://cdn.cteam.me:80/romario2022/2022romario/113906
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Disney Channel SD
+http://cdn.cteam.me:80/romario2022/2022romario/113907
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] DJTV HD
+http://cdn.cteam.me:80/romario2022/2022romario/113908
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Dog TV FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113909
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] E! FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113910
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] E! HD
+http://cdn.cteam.me:80/romario2022/2022romario/113911
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] E! SD
+http://cdn.cteam.me:80/romario2022/2022romario/113912
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Eleven Sports 01
+http://cdn.cteam.me:80/romario2022/2022romario/113913
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Eleven Sports 02
+http://cdn.cteam.me:80/romario2022/2022romario/113914
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Eleven Sports 03
+http://cdn.cteam.me:80/romario2022/2022romario/113915
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Eleven Sports 04
+http://cdn.cteam.me:80/romario2022/2022romario/113916
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Eleven Sports 05
+http://cdn.cteam.me:80/romario2022/2022romario/113917
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] ESPN 1 FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113932
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] ESPN 1 HD
+http://cdn.cteam.me:80/romario2022/2022romario/113933
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] ESPN 1 SD
+http://cdn.cteam.me:80/romario2022/2022romario/113934
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] ESPN 2 FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113918
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] ESPN 2 HD
+http://cdn.cteam.me:80/romario2022/2022romario/113919
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] ESPN 2 SD
+http://cdn.cteam.me:80/romario2022/2022romario/113920
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] ESPN 3 FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113921
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] ESPN 3 HD
+http://cdn.cteam.me:80/romario2022/2022romario/113922
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] ESPN 3 SD
+http://cdn.cteam.me:80/romario2022/2022romario/113923
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] ESPN 4 4K
+http://cdn.cteam.me:80/romario2022/2022romario/113924
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] ESPN 4 FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113925
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] ESPN 4 HD
+http://cdn.cteam.me:80/romario2022/2022romario/113926
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] ESPN 4 SD
+http://cdn.cteam.me:80/romario2022/2022romario/113927
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] ESPN 4K
+http://cdn.cteam.me:80/romario2022/2022romario/113928
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] ESPN Extra FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113929
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] ESPN Extra HD
+http://cdn.cteam.me:80/romario2022/2022romario/113930
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] ESPN Extra SD
+http://cdn.cteam.me:80/romario2022/2022romario/113931
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Euronews en Español HD
+http://cdn.cteam.me:80/romario2022/2022romario/113935
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Euronews English HD
+http://cdn.cteam.me:80/romario2022/2022romario/113936
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Euronews Português HD
+http://cdn.cteam.me:80/romario2022/2022romario/113937
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] FailArmy(PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/113938
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Fashion TV FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113939
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] FILM & ARTS FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113940
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] FILM & ARTS HD
+http://cdn.cteam.me:80/romario2022/2022romario/113941
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Filmes Suspense(PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/113942
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Filmon 360 Experimental[Not 24/7](PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/113943
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Fish TV FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113944
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Fish TV HD
+http://cdn.cteam.me:80/romario2022/2022romario/113945
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Fish TV SD
+http://cdn.cteam.me:80/romario2022/2022romario/113946
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Food Network FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113947
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Food Network HD
+http://cdn.cteam.me:80/romario2022/2022romario/113948
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Food Network SD
+http://cdn.cteam.me:80/romario2022/2022romario/113949
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Formula 1 | F1 TV
+http://cdn.cteam.me:80/romario2022/2022romario/113950
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Fox News FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113951
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Fox News HD
+http://cdn.cteam.me:80/romario2022/2022romario/113952
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Fox News SD
+http://cdn.cteam.me:80/romario2022/2022romario/113953
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Fox Sports 2 FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113954
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Fox Sports 2 HD
+http://cdn.cteam.me:80/romario2022/2022romario/113955
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Fox Sports 2 SD
+http://cdn.cteam.me:80/romario2022/2022romario/113956
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] FUEL TV (PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/113957
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Furacão Live TV
+http://cdn.cteam.me:80/romario2022/2022romario/113958
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Futura FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113959
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Futura HD
+http://cdn.cteam.me:80/romario2022/2022romario/113960
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] FX FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113961
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] FX HD
+http://cdn.cteam.me:80/romario2022/2022romario/113962
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] FX SD
+http://cdn.cteam.me:80/romario2022/2022romario/113963
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo Amazonica FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113964
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo Amazonica HD
+http://cdn.cteam.me:80/romario2022/2022romario/113965
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo Amazonica SD
+http://cdn.cteam.me:80/romario2022/2022romario/113966
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo Boa Vista Roraima HD
+http://cdn.cteam.me:80/romario2022/2022romario/113967
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo Centro America FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113968
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo Centro America HD
+http://cdn.cteam.me:80/romario2022/2022romario/113969
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo Centro America SD
+http://cdn.cteam.me:80/romario2022/2022romario/113970
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo EPTV Campinas FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113971
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo EPTV Campinas HD
+http://cdn.cteam.me:80/romario2022/2022romario/113972
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo EPTV Campinas SD
+http://cdn.cteam.me:80/romario2022/2022romario/113973
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo EPTV Ribeirão Preto HD
+http://cdn.cteam.me:80/romario2022/2022romario/113974
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo EPTV Sul de Minas FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113975
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo EPTV Sul de Minas HD
+http://cdn.cteam.me:80/romario2022/2022romario/113976
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo EPTV São Carlos HD
+http://cdn.cteam.me:80/romario2022/2022romario/113977
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo Integração Uberlândia HD
+http://cdn.cteam.me:80/romario2022/2022romario/113978
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo Inter Cabugi HD
+http://cdn.cteam.me:80/romario2022/2022romario/113979
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo Inter Cabugi RN FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113980
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo Inter PT FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113981
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo Inter PT HD
+http://cdn.cteam.me:80/romario2022/2022romario/113982
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo Inter TV Alto Litoral FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113983
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo Inter TV dos Vales HD
+http://cdn.cteam.me:80/romario2022/2022romario/113984
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo Inter TV Grande Minas FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113985
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo Inter TV Grande Minas HD
+http://cdn.cteam.me:80/romario2022/2022romario/113986
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo Minas FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113987
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo Minas HD
+http://cdn.cteam.me:80/romario2022/2022romario/113988
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo Minas SD
+http://cdn.cteam.me:80/romario2022/2022romario/113989
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo Nacional FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113990
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo News 4K
+http://cdn.cteam.me:80/romario2022/2022romario/113991
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo News FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113992
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo News HD
+http://cdn.cteam.me:80/romario2022/2022romario/113993
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo News SD
+http://cdn.cteam.me:80/romario2022/2022romario/113994
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo Nordeste FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113995
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo Nordeste HD
+http://cdn.cteam.me:80/romario2022/2022romario/113996
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo Nordeste SD
+http://cdn.cteam.me:80/romario2022/2022romario/113997
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo NOW
+http://cdn.cteam.me:80/romario2022/2022romario/113998
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo NSC Centro Oeste FHD
+http://cdn.cteam.me:80/romario2022/2022romario/113999
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo NSC Florianopolis FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114000
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo NSC Florianopolis HD
+http://cdn.cteam.me:80/romario2022/2022romario/114001
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo NSC Florianopolis SD
+http://cdn.cteam.me:80/romario2022/2022romario/114002
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo NSC TV Blumenau FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114003
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo NSC TV Blumenau HD
+http://cdn.cteam.me:80/romario2022/2022romario/114004
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo NSC TV Chapeco FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114005
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo NSC TV Criciuma FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114006
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo NSC TV Joinville FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114007
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo RBS Passo Fundo HD
+http://cdn.cteam.me:80/romario2022/2022romario/114008
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo RBS TV Caxias do Sul FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114009
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo RBS TV FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114010
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo RBS TV Pelotas HD
+http://cdn.cteam.me:80/romario2022/2022romario/114011
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo RBS TV POA FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114012
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo RBS TV POA HD
+http://cdn.cteam.me:80/romario2022/2022romario/114013
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo RBS TV POA SD
+http://cdn.cteam.me:80/romario2022/2022romario/114014
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo RBS TV Santa Maria FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114015
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo RJ FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114016
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo RJ FHD³
+http://cdn.cteam.me:80/romario2022/2022romario/114018
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo RJ H265
+http://cdn.cteam.me:80/romario2022/2022romario/114017
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo RJ HD
+http://cdn.cteam.me:80/romario2022/2022romario/114019
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo RJ HD²
+http://cdn.cteam.me:80/romario2022/2022romario/114020
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo RJ HD³
+http://cdn.cteam.me:80/romario2022/2022romario/114021
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo RJ Interior FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114022
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo RJ SD
+http://cdn.cteam.me:80/romario2022/2022romario/114023
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo RJ SD²
+http://cdn.cteam.me:80/romario2022/2022romario/114024
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo RPC Curitiba FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114025
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo RPC Curitiba HD
+http://cdn.cteam.me:80/romario2022/2022romario/114026
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo RPC Curitiba SD
+http://cdn.cteam.me:80/romario2022/2022romario/114027
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo RPC Foz do Iguaçu FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114028
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo RPC Maringa FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114029
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo RPC Maringa HD
+http://cdn.cteam.me:80/romario2022/2022romario/114030
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo RPC Ponta Grossa HD
+http://cdn.cteam.me:80/romario2022/2022romario/114031
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo SJ do Rio Preto HD
+http://cdn.cteam.me:80/romario2022/2022romario/114032
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo SJ do Rio Preto HD²
+http://cdn.cteam.me:80/romario2022/2022romario/114033
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo SJ do Rio Preto SD
+http://cdn.cteam.me:80/romario2022/2022romario/114034
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo SP 4K
+http://cdn.cteam.me:80/romario2022/2022romario/114035
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] GLOBO SP FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114036
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] GLOBO SP H265
+http://cdn.cteam.me:80/romario2022/2022romario/114037
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo SP HD
+http://cdn.cteam.me:80/romario2022/2022romario/114038
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo SP HD²
+http://cdn.cteam.me:80/romario2022/2022romario/114039
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo SP HD³
+http://cdn.cteam.me:80/romario2022/2022romario/114040
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo SP SD
+http://cdn.cteam.me:80/romario2022/2022romario/114041
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo Sudoeste Bahia HD
+http://cdn.cteam.me:80/romario2022/2022romario/114042
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Anhanguera  SD
+http://cdn.cteam.me:80/romario2022/2022romario/114043
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Anhanguera FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114044
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Anhanguera Goiania HD
+http://cdn.cteam.me:80/romario2022/2022romario/114045
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Asa Branca FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114046
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Bahia FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114047
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Bahia HD
+http://cdn.cteam.me:80/romario2022/2022romario/114048
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo Tv Bahia SD
+http://cdn.cteam.me:80/romario2022/2022romario/114049
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Belem HD
+http://cdn.cteam.me:80/romario2022/2022romario/114050
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Belem HD
+http://cdn.cteam.me:80/romario2022/2022romario/114051
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Brasilia FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114052
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Brasilia HD
+http://cdn.cteam.me:80/romario2022/2022romario/114053
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Brasilia SD
+http://cdn.cteam.me:80/romario2022/2022romario/114054
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Cabo Branco FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114055
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Cabo Branco HD
+http://cdn.cteam.me:80/romario2022/2022romario/114056
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Clube Piauí FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114057
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Clube Piauí HD
+http://cdn.cteam.me:80/romario2022/2022romario/114058
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Fronteira Paulista HD
+http://cdn.cteam.me:80/romario2022/2022romario/114059
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Gazeta Alagoas FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114060
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Gazeta Alagoas HD
+http://cdn.cteam.me:80/romario2022/2022romario/114061
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Integração JF FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114062
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Liberal Belem
+http://cdn.cteam.me:80/romario2022/2022romario/114063
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Mirante Cocais FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114064
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Mirante São Luis FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114065
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Mirante São Luis HD
+http://cdn.cteam.me:80/romario2022/2022romario/114066
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Morena FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114067
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Morena HD
+http://cdn.cteam.me:80/romario2022/2022romario/114068
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Morena SD
+http://cdn.cteam.me:80/romario2022/2022romario/114069
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Porto Velho HD
+http://cdn.cteam.me:80/romario2022/2022romario/114070
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Recife FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114071
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Recife HD
+http://cdn.cteam.me:80/romario2022/2022romario/114072
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Rio Sul HD
+http://cdn.cteam.me:80/romario2022/2022romario/114073
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Santa Cruz FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114074
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Santa Cruz HD
+http://cdn.cteam.me:80/romario2022/2022romario/114075
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Serra Mar HD
+http://cdn.cteam.me:80/romario2022/2022romario/114076
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Tem Itapetininga HD
+http://cdn.cteam.me:80/romario2022/2022romario/114077
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV TEM Sorocaba HD
+http://cdn.cteam.me:80/romario2022/2022romario/114078
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV TEM Sorocaba SD
+http://cdn.cteam.me:80/romario2022/2022romario/114079
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Tem Taubaté HD
+http://cdn.cteam.me:80/romario2022/2022romario/114080
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Tribuna Santos HD
+http://cdn.cteam.me:80/romario2022/2022romario/114081
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Tribuna Santos SD
+http://cdn.cteam.me:80/romario2022/2022romario/114082
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Vanguarda SJ Campos HD
+http://cdn.cteam.me:80/romario2022/2022romario/114083
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Verdes Mares CE FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114084
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Verdes Mares CE HD
+http://cdn.cteam.me:80/romario2022/2022romario/114085
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Globo TV Verdes Mares CE SD
+http://cdn.cteam.me:80/romario2022/2022romario/114086
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Gloob FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114087
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Gloob HD
+http://cdn.cteam.me:80/romario2022/2022romario/114088
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Gloob SD
+http://cdn.cteam.me:80/romario2022/2022romario/114089
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Gloobinho FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114090
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Gloobinho HD
+http://cdn.cteam.me:80/romario2022/2022romario/114091
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Gloobinho SD
+http://cdn.cteam.me:80/romario2022/2022romario/114092
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] GNT 4K
+http://cdn.cteam.me:80/romario2022/2022romario/114093
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] GNT FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114094
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] GNT HD
+http://cdn.cteam.me:80/romario2022/2022romario/114095
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] GNT SD
+http://cdn.cteam.me:80/romario2022/2022romario/114096
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Guia de Canais(PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114097
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] H2 FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114098
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] H2 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114099
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] H2 SD
+http://cdn.cteam.me:80/romario2022/2022romario/114100
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO 1 4K
+http://cdn.cteam.me:80/romario2022/2022romario/114105
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO 1 FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114110
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO 1 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114111
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO 1 HD²
+http://cdn.cteam.me:80/romario2022/2022romario/114112
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO 1 SD
+http://cdn.cteam.me:80/romario2022/2022romario/114132
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO 2 FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114101
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO 2 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114102
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO 2 HD²
+http://cdn.cteam.me:80/romario2022/2022romario/114103
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO 2 SD
+http://cdn.cteam.me:80/romario2022/2022romario/114104
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO Family FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114106
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO Family HD
+http://cdn.cteam.me:80/romario2022/2022romario/114107
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO Family HD²
+http://cdn.cteam.me:80/romario2022/2022romario/114108
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO Family SD
+http://cdn.cteam.me:80/romario2022/2022romario/114109
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO Max 1 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114113
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO Max 2 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114114
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO Max 3 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114115
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO Max 4 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114116
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO Max 5 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114117
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO Max 6 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114118
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO Max 7 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114119
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO Mundi FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114120
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO Mundi HD
+http://cdn.cteam.me:80/romario2022/2022romario/114121
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO Mundi HD²
+http://cdn.cteam.me:80/romario2022/2022romario/114122
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO Mundi SD
+http://cdn.cteam.me:80/romario2022/2022romario/114123
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO Plus+ FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114124
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO Plus+ HD
+http://cdn.cteam.me:80/romario2022/2022romario/114125
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO Plus+ HD²
+http://cdn.cteam.me:80/romario2022/2022romario/114126
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO Plus+ SD
+http://cdn.cteam.me:80/romario2022/2022romario/114127
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO Pop FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114128
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO Pop HD
+http://cdn.cteam.me:80/romario2022/2022romario/114129
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO Pop HD²
+http://cdn.cteam.me:80/romario2022/2022romario/114130
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO Pop SD
+http://cdn.cteam.me:80/romario2022/2022romario/114131
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO Signature FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114133
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO Signature HD
+http://cdn.cteam.me:80/romario2022/2022romario/114134
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO Signature HD²
+http://cdn.cteam.me:80/romario2022/2022romario/114135
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO Signature SD
+http://cdn.cteam.me:80/romario2022/2022romario/114136
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO Xtreme FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114137
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO Xtreme HD
+http://cdn.cteam.me:80/romario2022/2022romario/114138
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO Xtreme HD²
+http://cdn.cteam.me:80/romario2022/2022romario/114139
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HBO Xtreme SD
+http://cdn.cteam.me:80/romario2022/2022romario/114140
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Heavy Metal TV HD
+http://cdn.cteam.me:80/romario2022/2022romario/114141
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HGTV FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114142
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HGTV HD
+http://cdn.cteam.me:80/romario2022/2022romario/114143
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] HGTV SD
+http://cdn.cteam.me:80/romario2022/2022romario/114144
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Igreja Mundial IMPD FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114145
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Igreja Universal FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114146
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Igreja Universal HD
+http://cdn.cteam.me:80/romario2022/2022romario/114147
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Inter TV Grande Minas SD
+http://cdn.cteam.me:80/romario2022/2022romario/114148
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Jeannie é um Gênio(PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114149
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Jovem Pan News 4K
+http://cdn.cteam.me:80/romario2022/2022romario/114150
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Jovem Pan News FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114151
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Jovem Pan News HD
+http://cdn.cteam.me:80/romario2022/2022romario/114152
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Jovem Pan Pluto TV (PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114153
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] KPOP TV SY HD
+http://cdn.cteam.me:80/romario2022/2022romario/114154
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Lifetime FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114155
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Lifetime HD
+http://cdn.cteam.me:80/romario2022/2022romario/114156
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Lifetime SD
+http://cdn.cteam.me:80/romario2022/2022romario/114157
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] LIGA FUTSAL 1 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114158
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] LIGA FUTSAL 2 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114159
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] LIGA FUTSAL 3 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114160
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] LIGA FUTSAL 4 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114161
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Like HD
+http://cdn.cteam.me:80/romario2022/2022romario/114162
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Loupe (PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114163
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Love Nature FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114164
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Master Show TV
+http://cdn.cteam.me:80/romario2022/2022romario/114165
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] MasterChef (PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114166
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Megapix 4K
+http://cdn.cteam.me:80/romario2022/2022romario/114167
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Megapix FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114168
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Megapix HD
+http://cdn.cteam.me:80/romario2022/2022romario/114169
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Megapix SD
+http://cdn.cteam.me:80/romario2022/2022romario/114170
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Modo Viagem FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114171
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Modo Viagem HD
+http://cdn.cteam.me:80/romario2022/2022romario/114172
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Modo Viagem SD
+http://cdn.cteam.me:80/romario2022/2022romario/114173
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] MTV 00s HD
+http://cdn.cteam.me:80/romario2022/2022romario/114174
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] MTV Are you the One? (PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114175
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] MTV Biggest Pop (PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114176
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] MTV FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114177
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] MTV HD
+http://cdn.cteam.me:80/romario2022/2022romario/114178
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] MTV Live FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114179
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] MTV Live HD
+http://cdn.cteam.me:80/romario2022/2022romario/114180
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] MTV Pluto TV(PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114181
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] MTV SD
+http://cdn.cteam.me:80/romario2022/2022romario/114182
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] MTV Spankin' New (PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114183
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Multishow 4K
+http://cdn.cteam.me:80/romario2022/2022romario/114184
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Multishow FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114185
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Multishow HD
+http://cdn.cteam.me:80/romario2022/2022romario/114186
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Multishow SD
+http://cdn.cteam.me:80/romario2022/2022romario/114187
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Music Box Brasil FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114188
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Music Box Brasil HD
+http://cdn.cteam.me:80/romario2022/2022romario/114189
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Music Box Brasil SD
+http://cdn.cteam.me:80/romario2022/2022romario/114190
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Music Top HD
+http://cdn.cteam.me:80/romario2022/2022romario/114191
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] MyTime Movie Network Brazil HD
+http://cdn.cteam.me:80/romario2022/2022romario/114192
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Naruto (PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114193
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Natgeo FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114194
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Natgeo HD
+http://cdn.cteam.me:80/romario2022/2022romario/114195
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Natgeo SD
+http://cdn.cteam.me:80/romario2022/2022romario/114196
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Nick Clássico(PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114197
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Nick FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114198
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Nick HD
+http://cdn.cteam.me:80/romario2022/2022romario/114199
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Nick JR FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114200
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Nick JR HD
+http://cdn.cteam.me:80/romario2022/2022romario/114201
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Nick JR SD
+http://cdn.cteam.me:80/romario2022/2022romario/114202
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Nick Jr. Club (PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114203
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Nick SD
+http://cdn.cteam.me:80/romario2022/2022romario/114204
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Nick Teen(PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114205
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Nosey Casos (PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114206
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Nosey Escândalos(PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114207
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] O Encantador de Cães (PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114208
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] O Reino Infantil (PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114209
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] OFF FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114210
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] OFF HD
+http://cdn.cteam.me:80/romario2022/2022romario/114211
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] OFF SD
+http://cdn.cteam.me:80/romario2022/2022romario/114212
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Paramount Channel FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114213
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Paramount Channel HD
+http://cdn.cteam.me:80/romario2022/2022romario/114214
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Paramount Channel SD
+http://cdn.cteam.me:80/romario2022/2022romario/114215
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Paramount+ Apresenta(PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114216
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] People are Awesome(PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114217
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Pluto TV Anime (PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114218
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Pluto TV Anime Ação (PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114219
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Pluto TV Cine Clássicos (PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114220
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Pluto TV Cine Comédia (PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114221
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Pluto TV Cine Drama(PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114222
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Pluto TV Cine Família(PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114223
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Pluto TV Cine Romance(PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114224
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Pluto TV Cine Sucessos(PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114225
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Pluto TV Cine Terror(PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114226
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Pluto TV Comédia(PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114227
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Pluto TV Estilo de Vida (PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114228
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Pluto TV Fashionbox(PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114229
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Pluto TV Filmes Ação(PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114230
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Pluto TV Filmes Nacionais(PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114231
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Pluto TV Investigação(PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114232
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Pluto TV Junior(PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114233
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Pluto TV Karaokê por Stingray (PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114234
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Pluto TV Kids (PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114235
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Pluto TV Mistérios(PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114236
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Pluto TV Natureza(PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114237
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Pluto TV Paisagens por Stingray (PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114238
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Pluto TV Record News (PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114239
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Pluto TV Retrô(PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114240
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Pluto TV Shows por Stingray(PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114241
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Pluto TV Séries(PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114242
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Pluto TV Vida Real(PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114243
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Polishop FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114244
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Porta dos Fundos[Not 24/7](PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114245
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Power Couple 2 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114246
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Power Couple HD
+http://cdn.cteam.me:80/romario2022/2022romario/114247
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Premiere 1 Clubes 4K
+http://cdn.cteam.me:80/romario2022/2022romario/114267
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Premiere 1 Clubes FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114268
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Premiere 1 Clubes HD
+http://cdn.cteam.me:80/romario2022/2022romario/114269
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Premiere 1 Clubes SD
+http://cdn.cteam.me:80/romario2022/2022romario/114270
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Premiere 2 FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114248
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Premiere 2 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114249
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Premiere 2 SD
+http://cdn.cteam.me:80/romario2022/2022romario/114250
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Premiere 3 FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114251
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Premiere 3 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114252
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Premiere 3 SD
+http://cdn.cteam.me:80/romario2022/2022romario/114253
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Premiere 4 FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114254
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Premiere 4 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114255
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Premiere 4 SD
+http://cdn.cteam.me:80/romario2022/2022romario/114256
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Premiere 5 FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114257
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Premiere 5 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114258
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Premiere 5 SD
+http://cdn.cteam.me:80/romario2022/2022romario/114259
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Premiere 6 FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114260
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Premiere 6 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114261
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Premiere 6 SD
+http://cdn.cteam.me:80/romario2022/2022romario/114262
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Premiere 7 FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114263
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Premiere 7 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114264
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Premiere 7 SD
+http://cdn.cteam.me:80/romario2022/2022romario/114265
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Premiere 8
+http://cdn.cteam.me:80/romario2022/2022romario/114266
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Prime Box Brasil FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114271
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Prime Box Brasil HD
+http://cdn.cteam.me:80/romario2022/2022romario/114272
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Prime Box Brasil SD
+http://cdn.cteam.me:80/romario2022/2022romario/114273
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] RBC FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114274
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] RBTV HD
+http://cdn.cteam.me:80/romario2022/2022romario/114275
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Record AL HD
+http://cdn.cteam.me:80/romario2022/2022romario/114276
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Record Belém HD
+http://cdn.cteam.me:80/romario2022/2022romario/114277
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Record Brasília HD
+http://cdn.cteam.me:80/romario2022/2022romario/114278
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Record ES SD
+http://cdn.cteam.me:80/romario2022/2022romario/114279
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Record Goiás HD
+http://cdn.cteam.me:80/romario2022/2022romario/114280
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Record Itapoan BA HD
+http://cdn.cteam.me:80/romario2022/2022romario/114281
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Record Manaus HD
+http://cdn.cteam.me:80/romario2022/2022romario/114282
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Record Minas HD
+http://cdn.cteam.me:80/romario2022/2022romario/114283
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Record News FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114284
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Record News HD
+http://cdn.cteam.me:80/romario2022/2022romario/114285
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Record News SD
+http://cdn.cteam.me:80/romario2022/2022romario/114286
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Record PA HD
+http://cdn.cteam.me:80/romario2022/2022romario/114287
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Record Rio RJ HD
+http://cdn.cteam.me:80/romario2022/2022romario/114288
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Record RN HD
+http://cdn.cteam.me:80/romario2022/2022romario/114289
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Record RS HD
+http://cdn.cteam.me:80/romario2022/2022romario/114290
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Record SC HD
+http://cdn.cteam.me:80/romario2022/2022romario/114291
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Record SD
+http://cdn.cteam.me:80/romario2022/2022romario/114292
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Record SD
+http://cdn.cteam.me:80/romario2022/2022romario/114293
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Record SD ²
+http://cdn.cteam.me:80/romario2022/2022romario/114294
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Record SP 4K
+http://cdn.cteam.me:80/romario2022/2022romario/114295
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Record SP FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114296
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Record SP HD
+http://cdn.cteam.me:80/romario2022/2022romario/114297
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Record SP HD²
+http://cdn.cteam.me:80/romario2022/2022romario/114298
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Redbull TV HD
+http://cdn.cteam.me:80/romario2022/2022romario/114299
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Rede Brasil TV HD
+http://cdn.cteam.me:80/romario2022/2022romario/114300
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Rede Familia HD
+http://cdn.cteam.me:80/romario2022/2022romario/114301
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Rede Genesis HD
+http://cdn.cteam.me:80/romario2022/2022romario/114302
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Rede Gospel HD
+http://cdn.cteam.me:80/romario2022/2022romario/114303
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Rede Minas FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114304
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Rede Super HD
+http://cdn.cteam.me:80/romario2022/2022romario/114305
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Rede TV FHD¹
+http://cdn.cteam.me:80/romario2022/2022romario/114307
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Rede TV Gospel HD
+http://cdn.cteam.me:80/romario2022/2022romario/114308
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Rede TV H265
+http://cdn.cteam.me:80/romario2022/2022romario/114306
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Rede TV HD
+http://cdn.cteam.me:80/romario2022/2022romario/114309
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Rede TV SD
+http://cdn.cteam.me:80/romario2022/2022romario/114310
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Rede TV! 4K
+http://cdn.cteam.me:80/romario2022/2022romario/114311
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Rede Vida HD
+http://cdn.cteam.me:80/romario2022/2022romario/114312
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Retro Music
+http://cdn.cteam.me:80/romario2022/2022romario/114313
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] RIT TV FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114314
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Rock TV HD
+http://cdn.cteam.me:80/romario2022/2022romario/114315
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] RS21 FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114316
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Runtime Brasil HD
+http://cdn.cteam.me:80/romario2022/2022romario/114317
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Sabor & Arte HD
+http://cdn.cteam.me:80/romario2022/2022romario/114318
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Santuário de Fátima FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114319
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SBT BA HD
+http://cdn.cteam.me:80/romario2022/2022romario/114320
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SBT Brasilia FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114321
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SBT GO HD
+http://cdn.cteam.me:80/romario2022/2022romario/114322
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SBT HD
+http://cdn.cteam.me:80/romario2022/2022romario/114323
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SBT Int SP HD
+http://cdn.cteam.me:80/romario2022/2022romario/114324
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SBT Jangadeiro CE
+http://cdn.cteam.me:80/romario2022/2022romario/114325
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SBT MA HD
+http://cdn.cteam.me:80/romario2022/2022romario/114326
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SBT MG HD
+http://cdn.cteam.me:80/romario2022/2022romario/114327
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SBT MT HD
+http://cdn.cteam.me:80/romario2022/2022romario/114328
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SBT Nacional FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114329
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SBT PE HD
+http://cdn.cteam.me:80/romario2022/2022romario/114330
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SBT PI HD
+http://cdn.cteam.me:80/romario2022/2022romario/114331
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SBT PR HD
+http://cdn.cteam.me:80/romario2022/2022romario/114332
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SBT RJ FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114333
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SBT RJ HD
+http://cdn.cteam.me:80/romario2022/2022romario/114334
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SBT RS HD
+http://cdn.cteam.me:80/romario2022/2022romario/114335
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SBT SC HD
+http://cdn.cteam.me:80/romario2022/2022romario/114336
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SBT SD
+http://cdn.cteam.me:80/romario2022/2022romario/114337
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SBT SP 4K
+http://cdn.cteam.me:80/romario2022/2022romario/114338
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SBT SP FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114339
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SBT SP H265
+http://cdn.cteam.me:80/romario2022/2022romario/114340
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SBT SP HD
+http://cdn.cteam.me:80/romario2022/2022romario/114341
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Series Clássicas HD
+http://cdn.cteam.me:80/romario2022/2022romario/114342
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SescTV HD
+http://cdn.cteam.me:80/romario2022/2022romario/114343
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Shoptime FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114344
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Shoptime HD
+http://cdn.cteam.me:80/romario2022/2022romario/114345
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Smithsonian BR HD
+http://cdn.cteam.me:80/romario2022/2022romario/114346
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Sony FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114347
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Sony HD
+http://cdn.cteam.me:80/romario2022/2022romario/114348
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Sony HD²
+http://cdn.cteam.me:80/romario2022/2022romario/114349
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Sony SD
+http://cdn.cteam.me:80/romario2022/2022romario/114350
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Space FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114351
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Space HD
+http://cdn.cteam.me:80/romario2022/2022romario/114352
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Space SD
+http://cdn.cteam.me:80/romario2022/2022romario/114353
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SporTV 1 4K
+http://cdn.cteam.me:80/romario2022/2022romario/114364
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SporTV 1 FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114365
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SporTV 1 H265
+http://cdn.cteam.me:80/romario2022/2022romario/114366
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SporTV 1 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114367
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SporTV 1 HD²
+http://cdn.cteam.me:80/romario2022/2022romario/114368
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SporTV 1 SD
+http://cdn.cteam.me:80/romario2022/2022romario/114369
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SporTV 2 FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114354
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SporTV 2 H265
+http://cdn.cteam.me:80/romario2022/2022romario/114355
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SporTV 2 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114356
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SporTV 2 HD²
+http://cdn.cteam.me:80/romario2022/2022romario/114357
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Sportv 2 SD
+http://cdn.cteam.me:80/romario2022/2022romario/114358
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SporTV 3 FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114359
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SporTV 3 H265
+http://cdn.cteam.me:80/romario2022/2022romario/114360
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SporTV 3 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114361
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SporTV 3 HD²
+http://cdn.cteam.me:80/romario2022/2022romario/114362
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SporTV 3 SD
+http://cdn.cteam.me:80/romario2022/2022romario/114363
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Star Channel 4K
+http://cdn.cteam.me:80/romario2022/2022romario/114370
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Star FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114371
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Star H265
+http://cdn.cteam.me:80/romario2022/2022romario/114372
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Star HD
+http://cdn.cteam.me:80/romario2022/2022romario/114373
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Star SD
+http://cdn.cteam.me:80/romario2022/2022romario/114374
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] STAR+ 1 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114375
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] STAR+ 2 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114376
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] STAR+ 3 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114377
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] STAR+ 4 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114378
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] STAR+ 5 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114379
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] STAR+ 6 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114380
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] STAR+ 7 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114381
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] STAR+ 8 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114382
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Studio Universal FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114383
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Studio Universal H265
+http://cdn.cteam.me:80/romario2022/2022romario/114384
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Studio Universal HD
+http://cdn.cteam.me:80/romario2022/2022romario/114385
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Studio Universal SD
+http://cdn.cteam.me:80/romario2022/2022romario/114386
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SYFY FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114387
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SYFY HD
+http://cdn.cteam.me:80/romario2022/2022romario/114388
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] SYFY SD
+http://cdn.cteam.me:80/romario2022/2022romario/114389
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Taormina TV HD
+http://cdn.cteam.me:80/romario2022/2022romario/114390
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Tastemade BR FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114391
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Tastemade(PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114392
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TBS FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114393
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TBS HD
+http://cdn.cteam.me:80/romario2022/2022romario/114394
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TBS SD
+http://cdn.cteam.me:80/romario2022/2022romario/114395
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TC Action 4K
+http://cdn.cteam.me:80/romario2022/2022romario/114396
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TC Action FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114397
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TC Action H265
+http://cdn.cteam.me:80/romario2022/2022romario/114398
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TC Action HD
+http://cdn.cteam.me:80/romario2022/2022romario/114399
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TC Action HD²
+http://cdn.cteam.me:80/romario2022/2022romario/114400
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TC Action SD
+http://cdn.cteam.me:80/romario2022/2022romario/114401
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TC Cult FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114402
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TC Cult H265
+http://cdn.cteam.me:80/romario2022/2022romario/114403
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TC Cult HD
+http://cdn.cteam.me:80/romario2022/2022romario/114404
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TC Cult HD²
+http://cdn.cteam.me:80/romario2022/2022romario/114405
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TC Cult SD
+http://cdn.cteam.me:80/romario2022/2022romario/114406
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TC Fun FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114407
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TC Fun H265
+http://cdn.cteam.me:80/romario2022/2022romario/114408
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TC Fun HD
+http://cdn.cteam.me:80/romario2022/2022romario/114409
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TC Fun HD²
+http://cdn.cteam.me:80/romario2022/2022romario/114410
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Tc Fun SD
+http://cdn.cteam.me:80/romario2022/2022romario/114411
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TC Pipoca 4K
+http://cdn.cteam.me:80/romario2022/2022romario/114412
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TC Pipoca FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114413
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TC Pipoca H265
+http://cdn.cteam.me:80/romario2022/2022romario/114414
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TC Pipoca HD
+http://cdn.cteam.me:80/romario2022/2022romario/114415
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TC Pipoca HD²
+http://cdn.cteam.me:80/romario2022/2022romario/114416
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TC Pipoca SD
+http://cdn.cteam.me:80/romario2022/2022romario/114417
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TC Premium 4K
+http://cdn.cteam.me:80/romario2022/2022romario/114418
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TC Premium FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114419
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TC Premium H265
+http://cdn.cteam.me:80/romario2022/2022romario/114420
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TC Premium HD
+http://cdn.cteam.me:80/romario2022/2022romario/114421
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TC Premium HD²
+http://cdn.cteam.me:80/romario2022/2022romario/114422
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TC Premium SD
+http://cdn.cteam.me:80/romario2022/2022romario/114423
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TC Touch FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114424
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TC Touch H265
+http://cdn.cteam.me:80/romario2022/2022romario/114425
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TC Touch HD
+http://cdn.cteam.me:80/romario2022/2022romario/114426
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TC Touch HD²
+http://cdn.cteam.me:80/romario2022/2022romario/114427
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TC Touch SD
+http://cdn.cteam.me:80/romario2022/2022romario/114428
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TCM FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114429
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TCM HD
+http://cdn.cteam.me:80/romario2022/2022romario/114430
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TCM SD
+http://cdn.cteam.me:80/romario2022/2022romario/114431
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Terra Viva FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114432
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Terra Viva HD
+http://cdn.cteam.me:80/romario2022/2022romario/114433
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] The History FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114434
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] The History HD
+http://cdn.cteam.me:80/romario2022/2022romario/114435
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] The History SD
+http://cdn.cteam.me:80/romario2022/2022romario/114436
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TLC FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114437
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TLC HD
+http://cdn.cteam.me:80/romario2022/2022romario/114438
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TLC SD
+http://cdn.cteam.me:80/romario2022/2022romario/114439
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TNT 4K
+http://cdn.cteam.me:80/romario2022/2022romario/114440
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TNT FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114441
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TNT H265
+http://cdn.cteam.me:80/romario2022/2022romario/114442
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TNT HD
+http://cdn.cteam.me:80/romario2022/2022romario/114443
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TNT HD²
+http://cdn.cteam.me:80/romario2022/2022romario/114444
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TNT SD
+http://cdn.cteam.me:80/romario2022/2022romario/114445
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TNT Series 4K
+http://cdn.cteam.me:80/romario2022/2022romario/114446
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TNT Series FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114447
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TNT Series HD
+http://cdn.cteam.me:80/romario2022/2022romario/114448
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TNT Series HD²
+http://cdn.cteam.me:80/romario2022/2022romario/114449
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TNT Series SD
+http://cdn.cteam.me:80/romario2022/2022romario/114450
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TNT Sports Estadio 1 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114451
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TNT Sports Estadio 2 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114452
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TNT Sports Estadio 3 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114453
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TNT Sports Estadio 4 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114454
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TNT Sports Estadio 5 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114455
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TNT Sports Estadio 6 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114456
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Tokusato(PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114457
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Toon Goggles FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114458
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Tooncast FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114459
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Tooncast HD
+http://cdn.cteam.me:80/romario2022/2022romario/114460
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Tooncast SD
+http://cdn.cteam.me:80/romario2022/2022romario/114461
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Trace Brazuca FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114462
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Travel Box Brasil FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114463
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Travel Box Brasil HD
+http://cdn.cteam.me:80/romario2022/2022romario/114464
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Tru TV FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114465
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Tru TV HD
+http://cdn.cteam.me:80/romario2022/2022romario/114466
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Tru TV SD
+http://cdn.cteam.me:80/romario2022/2022romario/114467
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TST
+http://cdn.cteam.me:80/romario2022/2022romario/114540
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Turma da Mônica(PlutoTV)
+http://cdn.cteam.me:80/romario2022/2022romario/114468
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV Aparecida FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114469
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV Brasil 2 HD
+http://cdn.cteam.me:80/romario2022/2022romario/114470
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV Brasil HD
+http://cdn.cteam.me:80/romario2022/2022romario/114471
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV Camara FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114472
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV Carioca HD
+http://cdn.cteam.me:80/romario2022/2022romario/114473
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV Cultura FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114474
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV Cultura HD
+http://cdn.cteam.me:80/romario2022/2022romario/114475
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV das Artes
+http://cdn.cteam.me:80/romario2022/2022romario/114476
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Tv Diario FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114477
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Tv Diario HD
+http://cdn.cteam.me:80/romario2022/2022romario/114478
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Tv Diario SD
+http://cdn.cteam.me:80/romario2022/2022romario/114479
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV Diário do Sertão HD
+http://cdn.cteam.me:80/romario2022/2022romario/114480
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV Escola HD
+http://cdn.cteam.me:80/romario2022/2022romario/114481
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV Evangelizar HD
+http://cdn.cteam.me:80/romario2022/2022romario/114482
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV Gazeta FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114483
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV Gazeta HD
+http://cdn.cteam.me:80/romario2022/2022romario/114484
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV Gazeta Sul ES HD
+http://cdn.cteam.me:80/romario2022/2022romario/114485
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV Gazeta Vitória ES FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114486
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV Gazeta Vitória ES HD
+http://cdn.cteam.me:80/romario2022/2022romario/114487
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV Gideoes HD
+http://cdn.cteam.me:80/romario2022/2022romario/114488
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV Guajará HD
+http://cdn.cteam.me:80/romario2022/2022romario/114489
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV Imaculada FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114490
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV Justiça HD
+http://cdn.cteam.me:80/romario2022/2022romario/114491
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV MaisNews|Cultura FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114492
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV Maná BR HD
+http://cdn.cteam.me:80/romario2022/2022romario/114493
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV Mundo Maior HD
+http://cdn.cteam.me:80/romario2022/2022romario/114494
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV Novo Tempo FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114495
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV Novo Tempo HD
+http://cdn.cteam.me:80/romario2022/2022romario/114496
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV Pai Eterno HD
+http://cdn.cteam.me:80/romario2022/2022romario/114497
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV Pampa HD
+http://cdn.cteam.me:80/romario2022/2022romario/114498
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV Ra Tim Bum FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114499
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV Ra Tim Bum HD
+http://cdn.cteam.me:80/romario2022/2022romario/114500
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV Ra Tim Bum SD
+http://cdn.cteam.me:80/romario2022/2022romario/114501
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV Rio Sul HD
+http://cdn.cteam.me:80/romario2022/2022romario/114502
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV Senado HD
+http://cdn.cteam.me:80/romario2022/2022romario/114503
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV Sergipe FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114504
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV Sergipe HD
+http://cdn.cteam.me:80/romario2022/2022romario/114505
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV Tem Bauru FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114506
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV Tem Bauru HD
+http://cdn.cteam.me:80/romario2022/2022romario/114507
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV Tem Bauru SD
+http://cdn.cteam.me:80/romario2022/2022romario/114508
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TV UAI HD
+http://cdn.cteam.me:80/romario2022/2022romario/114509
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TVE FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114510
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] TVE FHD ²
+http://cdn.cteam.me:80/romario2022/2022romario/114511
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Universal 4K
+http://cdn.cteam.me:80/romario2022/2022romario/114512
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Universal FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114513
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Universal HD
+http://cdn.cteam.me:80/romario2022/2022romario/114514
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Universal HD²
+http://cdn.cteam.me:80/romario2022/2022romario/114515
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Universal SD
+http://cdn.cteam.me:80/romario2022/2022romario/114516
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Urban Docs HD
+http://cdn.cteam.me:80/romario2022/2022romario/114517
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Urban Kids HD
+http://cdn.cteam.me:80/romario2022/2022romario/114518
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Urban Movies HD
+http://cdn.cteam.me:80/romario2022/2022romario/114519
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Urban Series HD
+http://cdn.cteam.me:80/romario2022/2022romario/114520
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Urban Turbo HD
+http://cdn.cteam.me:80/romario2022/2022romario/114521
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Urban TV HD
+http://cdn.cteam.me:80/romario2022/2022romario/114522
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Viva 4K
+http://cdn.cteam.me:80/romario2022/2022romario/114523
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Viva FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114524
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Viva HD
+http://cdn.cteam.me:80/romario2022/2022romario/114525
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Viva SD
+http://cdn.cteam.me:80/romario2022/2022romario/114526
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] VRT Channel HD
+http://cdn.cteam.me:80/romario2022/2022romario/114527
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Warner Channel FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114528
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Warner Channel H265
+http://cdn.cteam.me:80/romario2022/2022romario/114529
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Warner Channel HD
+http://cdn.cteam.me:80/romario2022/2022romario/114530
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Warner Channel HD²
+http://cdn.cteam.me:80/romario2022/2022romario/114531
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Warner Channel SD
+http://cdn.cteam.me:80/romario2022/2022romario/114532
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Wohoo FHD
+http://cdn.cteam.me:80/romario2022/2022romario/114533
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Wohoo HD
+http://cdn.cteam.me:80/romario2022/2022romario/114534
+#EXTINF:-1,[B][COLOR red] RamalhoIPTV[/B][/COLOR] Wohoo SD
+http://cdn.cteam.me:80/romario2022/2022romario/114535
